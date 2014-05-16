@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Google Play Music Library Browser</title>
+    <link rel="stylesheet" href="https://rawgit.com/alfajango/jquery-dynatable/v0.3.1/jquery.dynatable.css">
 <body>
 
 <div id="data" style="display: none;"></div>
@@ -22,13 +23,15 @@
 <script src="https://rawgit.com/alfajango/jquery-dynatable/v0.3.1/jquery.dynatable.js"></script>
 <script>
     $('#data').load('library.json', function() {
-        var $records = $('#data'),
-            myRecords = JSON.parse($records.text());
-        
-        $('#musictable').dynatable({
-          dataset: {
-            records: myRecords
-          }
-        });
+      var $records = $('#data'),
+          myRecords = JSON.parse($records.text());
+      
+      $('#musictable').dynatable({
+        dataset: {
+          records: myRecords,
+          perPageDefault: 100,
+          perPageOptions: [100,500,1000,5000]
+        }
+      });
     });
 </script>
