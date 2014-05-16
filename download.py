@@ -7,8 +7,8 @@ from operator import itemgetter
 from gmusicapi import Mobileclient
 
 conf_filename = (getenv('HOME') or getenv('USERPROFILE')) + '/.gmusic'
-retain_keys = ['rating', 'year', 'album', 'title', 'genre', 'playCount', 'artist']
-sort_key = 'year'
+retain_keys = ['rating', 'year', 'album', 'title', 'genre', 'playCount',
+               'artist', 'albumArt']
 
 
 def connect_api():
@@ -33,18 +33,30 @@ def connect_api():
 
     return api
 
-def filter_keys(l, keys):
-    return [{k: item[k] for k in keys} for item in l]
+def normalize_urls(l):
+    for i, item in enumerate(l):
+        if 'albumArtRef' in item:
+            l[i]['albumArt'] = item['albumArtRef'][0]['url']
+        else:
+            l[i]['albumArt'] = ''
 
-def sort_list_by_key(l, key):
-    return sorted(l, key=itemgetter(key), reverse=True) 
+        if 'artistArtRef' in item:
+            l[i]['artistArt'] = item['artistArtRef'][0]['url']
+        else:
+            l[i]['artistArt'] = ''
+        
+    return l
+
+def filter_keys(l, keys):
+    return [{k: item[k] for k in keys if k in item} for item in l]
 
 
 if __name__ == '__main__':
     api = connect_api()
 
     if api.is_authenticated():
-        library = filter_keys(api.get_all_songs(), retain_keys)
-        library = sort_list_by_key(library, sort_key)
+        library = api.get_all_songs()
+        library = normalize_urls(library)
+        library = filter_keys(library, retain_keys)
         print dumps(library, sort_keys=True, indent=4, separators=(',', ': '))
         api.logout()
