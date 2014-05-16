@@ -27,6 +27,9 @@
           myRecords = JSON.parse($records.text());
       
       $('#musictable').dynatable({
+        inputs: {
+          queryEvent: 'blur change keyup'
+        },
         dataset: {
           records: myRecords,
           perPageDefault: 50,
