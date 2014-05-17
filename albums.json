@@ -22,7 +22,7 @@
   },
   {
     "album":"Too Bleep to Blop",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"8bit bEtty",
     "genre":"",
     "year":0
@@ -210,27 +210,6 @@
     "year":2006
   },
   {
-    "album":"Shotter's Nation",
-    "albumArt":"http://lh6.ggpht.com/I3zkQKB3LrJulvyWd1uuzN3SnfQ7BcPFrfnBrG-c5HkSaAhsvuqliugAZ46n",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "year":2007
-  },
-  {
-    "album":"Shotter's Nation",
-    "albumArt":"http://lh4.ggpht.com/XSy3tXbaAgfU8j9l_5ozSPxoH0jPIS-QszCe2ZObke80FQ5wyWyOSR69e2Wi",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "year":2007
-  },
-  {
-    "album":"Shotter's Nation",
-    "albumArt":"http://lh4.ggpht.com/23c3NRe48s8AdeoL8ryrM0rMhx9JeIivsvwkI3t1hLbDK8rlbKH6VHsW9KrqCw",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "year":2007
-  },
-  {
     "album":"Abbey Road",
     "albumArt":"http://lh5.ggpht.com/tAXAoU36b5uHPAo7O9gEP3W3OeW1Zm6l73QPr-RJMDA7EvivnJTbcKS42OwvXt3725Fv18mH",
     "artist":"Beatles, The",
@@ -281,7 +260,7 @@
   },
   {
     "album":"Yellow Submarine",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Beatles, The",
     "genre":"Pop",
     "year":2002
@@ -610,7 +589,7 @@
   },
   {
     "album":"Boaz Heilman Plays Favorites",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Boaz Heilman",
     "genre":"Other",
     "year":0
@@ -897,7 +876,7 @@
   },
   {
     "album":"An Awesome Wave",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"alt-J (\u2206)",
     "genre":"",
     "year":2012
@@ -1184,7 +1163,7 @@
   },
   {
     "album":"That's The Way To The Out Door",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Led Zeppelin",
     "genre":"Rock",
     "year":2009
@@ -1216,20 +1195,6 @@
     "artist":"Los Campesinos",
     "genre":"New4",
     "year":2010
-  },
-  {
-    "album":"Version",
-    "albumArt":"http://lh4.ggpht.com/UUEvq7w52WBiQToU3lhSFnCfbNwjNhs5wbxRQ84J_z8dsheYQdMDYghtraEnTKZ8jrRendmIAQ",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
-  },
-  {
-    "album":"Version",
-    "albumArt":"http://lh6.ggpht.com/3Rqt8S_h5SbdF7VvcOXy-XZONrmZYFlJBItLA2i8-Ld62Ti_BRsfciuQBLOxOC2oVYcS_pat",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
   },
   {
     "album":"Talk Is Cheap",
@@ -1282,7 +1247,7 @@
   },
   {
     "album":"The Parallax II: Future Sequence",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Between The Buried And Me",
     "genre":"",
     "year":2012
@@ -1400,13 +1365,6 @@
     "year":2005
   },
   {
-    "album":"Hefty Fine",
-    "albumArt":"http://lh4.ggpht.com/axSGj6hTyAvRHyGpgDUb8rBGxUhdBCAliwyDsFDR_h31kzXSjW8c2OnPHzAlVKh0Sw4aXnLJ2SSG6r8",
-    "artist":"Bloodhound Gang",
-    "genre":"Other",
-    "year":2005
-  },
-  {
     "album":"Lonerism",
     "albumArt":"http://lh3.ggpht.com/Hj0Q2YYbGo25Mo8o_6oCfhtT0wk7gLLbuTYXxs36Ve55fNxqSlHxL1HtAmdzl10QWUZXPqCTRrM",
     "artist":"Tame Impala",
@@ -1463,20 +1421,6 @@
     "year":2006
   },
   {
-    "album":"Version",
-    "albumArt":"http://lh4.ggpht.com/62ucxIeUYgnURvBkD4_Pi_WPGN7YN3l3qsJ-yku-8UioWKvU7-lv7X8cVh3VqV3LgC1OV6cmGQ",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
-  },
-  {
-    "album":"Version",
-    "albumArt":"http://lh5.ggpht.com/MjjkGfawGxy6NWxzG1dgbcJ0SGeYQCfGunrQlMgFBiW2KxIGDkiDeKL0xulQ9SMSM-O8ntPG3w",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
-  },
-  {
     "album":"Pressure Chief",
     "albumArt":"http://lh6.ggpht.com/t-7Lpuslw9VH90QI2GLsGuokfCRtTSBeU9HNAxrEDXCp8hmsYNvBPOI9Q3wCKf050IMdaHh3",
     "artist":"Cake",
@@ -1519,27 +1463,6 @@
     "year":2012
   },
   {
-    "album":"Version",
-    "albumArt":"http://lh6.ggpht.com/JgXXq0aci1V9-5_ER9bQM02N1eABRoSqlMw1CyiJqbmmN0BkFg8e2Qn8hcPmkpcqA8UBm2PG6Q",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
-  },
-  {
-    "album":"Version",
-    "albumArt":"http://lh6.ggpht.com/R66KYLLYOxQAE-yWEvrL3tbHFayHnNe5CN4OZfvjjOwiBfcg2olsJMZIt-7LpvaWBTkzO5ldV-Q",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
-  },
-  {
-    "album":"Version",
-    "albumArt":"http://lh4.ggpht.com/RvnQ6LwyolmydlkbUK2VVzCAsqZJH3uvs3U_93k_Cgp9dgmcMEfzRHk855XvT0QiIuJ_G48ZsQ",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
-  },
-  {
     "album":"The Lumineers",
     "albumArt":"http://lh4.ggpht.com/g1XtyWK9D0uSgFbPSXc5a75gRZ8Dna90AbG-mKTnMjsObXxZiSvtxQGCL2U",
     "artist":"The Lumineers",
@@ -1548,7 +1471,7 @@
   },
   {
     "album":"Patients",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Ben Cooper",
     "genre":"",
     "year":0
@@ -1645,13 +1568,6 @@
     "year":1978
   },
   {
-    "album":"Heartattack and Vine",
-    "albumArt":"http://lh3.ggpht.com/nXbHmxqodfLQKOD9Pe1L7t9IxXVP0mlao0f0TqH9VDqL-bYulRElL28624yhtw",
-    "artist":"Tom Waits",
-    "genre":"",
-    "year":1980
-  },
-  {
     "album":"Orphans: Brawlers, Bawlers & Bastards",
     "albumArt":"http://lh6.ggpht.com/Q807yWpdGeevNDwcTUfMSyoj5zXKm_UMuzW-EwmUo7FGddVpkp_YpuHBedEL",
     "artist":"Tom Waits",
@@ -1674,7 +1590,7 @@
   },
   {
     "album":"Bounced Checks",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Tom Waits",
     "genre":"",
     "year":1981
@@ -1730,14 +1646,14 @@
   },
   {
     "album":"Hope On The Other Side",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Slow Car Crash",
     "genre":"Rock",
     "year":2004
   },
   {
     "album":"The Trip We Planned",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Slow Car Crash",
     "genre":"Rock",
     "year":2006
@@ -1807,7 +1723,7 @@
   },
   {
     "album":"You Have Already Gone To The Other World: Music Inspired By Paradjanov's Shadows of Forgotten Ancestors",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"A Hawk and A Hacksaw",
     "genre":"Indie",
     "year":0
@@ -1821,7 +1737,7 @@
   },
   {
     "album":"Intermission",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Slow Car Crash",
     "genre":"Rock",
     "year":2008
@@ -1946,13 +1862,6 @@
     "year":0
   },
   {
-    "album":"Version",
-    "albumArt":"http://lh5.ggpht.com/O3qfX4dlQbiDicIrIGzsl_ZoLUBFTLM-88dbFOXmvq2Ap95g71QHjxSw4HSQ2sCH8eaccGJx23I",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
-  },
-  {
     "album":"Nothing (Deluxe Edition)",
     "albumArt":"http://lh6.ggpht.com/wPfmCGMSa0wC3X7ZDo_NXZb8QBkPElmKy2v0uR8NuTDFDh_ShFeBqocVM24eXeSS5rlNhI_leQ",
     "artist":"N.E.R.D.",
@@ -2024,7 +1933,7 @@
   },
   {
     "album":"EP To Be You And Me",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Broken Social Scene",
     "genre":"General Indie Rock",
     "year":2005
@@ -2042,13 +1951,6 @@
     "artist":"Beatles, The",
     "genre":"Pop",
     "year":2002
-  },
-  {
-    "album":"Version",
-    "albumArt":"http://lh6.ggpht.com/Z8LAalodxmBzjaXH0jXd1r3hk0xv7MbCqcBwxHWkrSzeC1eb4NP68KbeIGG81YZCLzntE8FVFVg",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
   },
   {
     "album":"Tron: Legacy (Cd2)",
@@ -2087,7 +1989,7 @@
   },
   {
     "album":"October Rust",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Type O Negative",
     "genre":"Gothic Rock",
     "year":1996
@@ -2161,13 +2063,6 @@
     "artist":"Iggy Pop & Elegant Too",
     "genre":"Alt. Rock",
     "year":0
-  },
-  {
-    "album":"Version",
-    "albumArt":"http://lh6.ggpht.com/RcvSl8gz5hwe3VDlpAQnxx11ZXxV9s09m7pudvIqK8whMsar3bg9Hxs--BdGPjyxXgLv_hyTr10",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
   },
   {
     "album":"Prolonging The Magic",
@@ -2248,7 +2143,7 @@
   },
   {
     "album":"Dead Again Limited Edition",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Type O Negative",
     "genre":"Gothic Rock",
     "year":2007
@@ -2269,7 +2164,7 @@
   },
   {
     "album":"Since We Last Spoke",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Rjd2",
     "genre":"Electronic",
     "year":2004
@@ -2318,7 +2213,7 @@
   },
   {
     "album":"Uncle Tony's Coloring Book",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Blockhead",
     "genre":"Trip-Hop",
     "year":2007
@@ -2350,13 +2245,6 @@
     "artist":"Sean Lennon w/ Jack Shit",
     "genre":"Alt. Rock",
     "year":0
-  },
-  {
-    "album":"Version",
-    "albumArt":"http://lh5.ggpht.com/FJzMLuhGqff8BaUmJcsmhSrvb7qshARQs9OaHfH6_l84qE7pZANCJn-uQ64Zz28Pm-qJrM3e",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
   },
   {
     "album":"Crazy Clown Time",
@@ -2625,13 +2513,6 @@
     "year":2010
   },
   {
-    "album":"Americana",
-    "albumArt":"http://lh4.ggpht.com/RGJ7_-LSphtXu3cg1W-rnkWwi1bMh-X04TrRKnY44v6JL9_e6qmWBJuCM3Kv3uFHVtONBVisYKc",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "year":1998
-  },
-  {
     "album":"Seasons of Your Day",
     "albumArt":"http://lh4.ggpht.com/_WHnY39jab1uBYmcWnQciHXM0UlWXj_hJdZsE_jMkwz3WL7exV38tPPvOzHI2g",
     "artist":"Mazzy Star",
@@ -2688,13 +2569,6 @@
     "year":2006
   },
   {
-    "album":"Americana",
-    "albumArt":"http://lh3.ggpht.com/3MkrVGah0inpy_-be1JBO_BGfPLsczbk7ieITfkKnVb4oeFZhHLzzf8z16D3EyWvOExOnLzLkg",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "year":1998
-  },
-  {
     "album":"Walk the Moon",
     "albumArt":"http://lh5.ggpht.com/38ddlXhOxDSaqklzfE5oD9hc0q0X1H3yYeIEx2dimG40R0MlaiVgCVZb5pNYzt7CIEIJG-559QY",
     "artist":"Walk the Moon",
@@ -2730,13 +2604,6 @@
     "year":1999
   },
   {
-    "album":"Version",
-    "albumArt":"http://lh3.ggpht.com/UY-0XYCitP91UmIo1mTVZEHbp6eQK94dWf3uXJhF48nV8SWG99LaJ5uM0eP2Pd2IcZMVMiLsglg",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
-  },
-  {
     "album":"Visual Audio Sensory Theater",
     "albumArt":"http://lh6.ggpht.com/sXAuEWy-lzZ0bqOngMwVoTSbuL6I0ivUkexSVgT9Wv6YGKKt1BuUvnFcb_gtZce0GQOC_hLI0A",
     "artist":"VAST",
@@ -2745,7 +2612,7 @@
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 5: WILDSTYLE PIRATE RADIO",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Grandmaster Flash & The Furious Five",
     "genre":"Rap",
     "year":2002
@@ -2793,25 +2660,11 @@
     "year":2012
   },
   {
-    "album":"",
-    "albumArt":"",
-    "artist":"Bright Eyes",
-    "genre":"Folk",
-    "year":2002
-  },
-  {
     "album":"The Origin Of The Feces",
     "albumArt":"http://lh6.ggpht.com/mU1h7VHoNR4dRcIz2uCZJkX6FhHsmtsh8X_58pz9fcqyxcxe9xq8X-nESzZgI_MpfRn3vYuzxfQ",
     "artist":"Type O Negative",
     "genre":"Doom",
     "year":1994
-  },
-  {
-    "album":"Heartattack and Vine",
-    "albumArt":"http://lh6.ggpht.com/YnKvJkfPD2zl0ggUE8Vybq9aOW_ql_thCRfVEQ-TTwIUmWbWya4fmHcLHy3DMZh3_o4Nk2rFsA",
-    "artist":"Tom Waits",
-    "genre":"Other",
-    "year":1980
   },
   {
     "album":"Songs For Silverman",
@@ -2850,7 +2703,7 @@
   },
   {
     "album":"Shout 2008 Remaster",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"DEVO",
     "genre":"Pop",
     "year":1984
@@ -2920,7 +2773,7 @@
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 7: RADIO ESPANTOSO",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Cachao",
     "genre":"Latin",
     "year":2002
@@ -2976,7 +2829,7 @@
   },
   {
     "album":"Mumford & Sons - Babel",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Mumford & Sons",
     "genre":"",
     "year":2012
@@ -2989,13 +2842,6 @@
     "year":2013
   },
   {
-    "album":"Yeah ghost",
-    "albumArt":"http://lh5.ggpht.com/O9w4fk4JQsxjsPSs18yisDOP8aR3TJRPlke1y_HUCsT3BJN_QyrvFtT3hBBvjS70H0pTKg0DvQ",
-    "artist":"Zero 7",
-    "genre":"Other",
-    "year":0
-  },
-  {
     "album":"Gossamer",
     "albumArt":"http://lh4.ggpht.com/juq_C9SjEEtX7NkK429gcf8_J7i3fLOmrhtiIV7GU5bK3RaBssP70ggjCAPa",
     "artist":"Passion Pit",
@@ -3003,32 +2849,11 @@
     "year":2012
   },
   {
-    "album":"Americana",
-    "albumArt":"http://lh3.ggpht.com/8YaVCHJKuKagqoGIMtXE8lyL4Qx2hLp2NoReOX_C8IsnjKvAliKMq_7EtCRHY_O2EyArlVD441w",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "year":1998
-  },
-  {
-    "album":"Americana",
-    "albumArt":"http://lh6.ggpht.com/4EK1RDWJxz4lfAZ1pitWA4EQXQTO25b2vAQRyQamRZcfK7QabRuUxEC3qvnHqGdCbSZUfN1WIQ",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "year":1998
-  },
-  {
     "album":"Hesitation Marks",
     "albumArt":"http://lh5.ggpht.com/Gtg0oMQiD5ih9_No5avlgh57b5lcY7pAwS6nLWxf7q2J_ouVrY3lffPIiaYaWJWGSMPVEjqWXA8",
     "artist":"Nine Inch Nails",
     "genre":"",
     "year":2013
-  },
-  {
-    "album":"Americana",
-    "albumArt":"http://lh5.ggpht.com/zKCeHH8uBVChY4HFeab-ByUtrXY0s2FIuOh_WGTi9B3oJlUVsIbpnZn6G6OBkb7lQ-nQmPDq",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "year":1998
   },
   {
     "album":"Supersunnyspeedgraphic",
@@ -3085,13 +2910,6 @@
     "artist":"Cee Lo Green",
     "genre":"R&B",
     "year":2010
-  },
-  {
-    "album":"Yeah Ghost",
-    "albumArt":"http://lh5.ggpht.com/O9w4fk4JQsxjsPSs18yisDOP8aR3TJRPlke1y_HUCsT3BJN_QyrvFtT3hBBvjS70H0pTKg0DvQ",
-    "artist":"Zero 7",
-    "genre":"Other",
-    "year":0
   },
   {
     "album":"Supersunnyspeedgraphic",
@@ -3220,13 +3038,6 @@
     "year":1992
   },
   {
-    "album":"Hefty Fine",
-    "albumArt":"http://lh5.ggpht.com/05uXWXiVD1bGJ3chhYRgfrjluW3upqF4sYoYmvuYQ778rma4E1oK-mfCGkQzNeMdVjXlv-TYZ_g",
-    "artist":"Bloodhound Gang",
-    "genre":"Other",
-    "year":2005
-  },
-  {
     "album":"Hesitation Marks",
     "albumArt":"http://lh6.ggpht.com/Zu_Ciei4ofqhNVcIHYJFpnMvjc0l-JI99_KSqAyzi50LVjkKolE5C0GgYyZK2bsSAu4_FT5q0g",
     "artist":"Nine Inch Nails",
@@ -3234,25 +3045,11 @@
     "year":2013
   },
   {
-    "album":"Americana",
-    "albumArt":"http://lh3.ggpht.com/frnvKprqsFmFJrHUqFoO_cvO2EhUkSdp5jkpfVUbaNtcV_pRIcvnwdlGI87pJMk2JsuA5ISO6Zc",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "year":1998
-  },
-  {
     "album":"Port Of Morrow",
     "albumArt":"http://lh4.ggpht.com/EYo6KT58FWSYDlQNvM1lC_Sw6nRL-14NF8KasT6dcIRrgL2EIG8phBadHtj1yNh5Bjlo6lOttQ0",
     "artist":"The Shins",
     "genre":"",
     "year":2012
-  },
-  {
-    "album":"Americana",
-    "albumArt":"http://lh3.ggpht.com/IVyYlMlntGTABqXIZ8OFpxy4Db4-T2VdXpEg5y8iTIRPo7SQl4TkgcA8httalD0KTdmi8G07IiI",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "year":1998
   },
   {
     "album":"Random Access Memories",
@@ -3281,13 +3078,6 @@
     "artist":"The Shins",
     "genre":"",
     "year":2012
-  },
-  {
-    "album":"Americana",
-    "albumArt":"http://lh4.ggpht.com/3sgzjy7Qv5YWJNen5oxuqI6PboZffIZP52yrpcn7_q2-OfP_dwREDcMs62CnUSYKuXoAp0B82A",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "year":1998
   },
   {
     "album":"Hesitation Marks",
@@ -3367,13 +3157,6 @@
     "year":2012
   },
   {
-    "album":"Americana",
-    "albumArt":"http://lh3.ggpht.com/VLFIpEe1nkiuyJZim2nHsQdDn4VEOlpfmVpINVUr4Y4PQrdRnZSF_pcar8ICOxOo5NigeRMzDFE",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "year":1998
-  },
-  {
     "album":"October Rust",
     "albumArt":"http://lh3.ggpht.com/N1NDuYz3IUysAlQQc8-JIbJNu6yoq4lkzwUbj6d4qNeSiRRHSiy22t57mnxXWZMvv1cqfPR88ew",
     "artist":"Type O Negative",
@@ -3431,7 +3214,7 @@
   },
   {
     "album":"Boaz Heilman Plays Favorites",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Boaz Heilman",
     "genre":"Classical",
     "year":1988
@@ -3480,7 +3263,7 @@
   },
   {
     "album":"Songbook (Best Buy Exclusive)",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Chris Cornell",
     "genre":"Alternative",
     "year":2011
@@ -3533,13 +3316,6 @@
     "artist":"Nat King Cole",
     "genre":"Easy Listening",
     "year":2005
-  },
-  {
-    "album":"Americana",
-    "albumArt":"http://lh6.ggpht.com/QYoBLTNbe08-lDaRwWmQS-_DszMhpwWy3go9L2XJmY3OP5mMmzoo7b71p_2eSAlWYasNTgb4yms",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "year":1998
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 1: V-ROCK",
@@ -3746,7 +3522,7 @@
   },
   {
     "album":"Yellow [DISC 1]",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Baroness",
     "genre":"",
     "year":2012
@@ -3788,7 +3564,7 @@
   },
   {
     "album":"Dept. of Disappearance (Deluxe Edition)",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Jason Lytle",
     "genre":"",
     "year":2012
@@ -3816,7 +3592,7 @@
   },
   {
     "album":"Resident Alien",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Spacehog",
     "genre":"Rock",
     "year":1999
@@ -3837,7 +3613,7 @@
   },
   {
     "album":"Green [DISC 2]",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Baroness",
     "genre":"",
     "year":2012
@@ -3886,7 +3662,7 @@
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 3: EMOTION 98.3",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Roxy Music",
     "genre":"Rock",
     "year":2002
@@ -3900,7 +3676,7 @@
   },
   {
     "album":"L.A. Woman (Deluxe Edition)",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"The Doors",
     "genre":"",
     "year":2007
@@ -3935,7 +3711,7 @@
   },
   {
     "album":"Greatest Hits",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Toto",
     "genre":"Rock",
     "year":1996
@@ -4033,7 +3809,7 @@
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 3: EMOTION 98.3",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Squeeze",
     "genre":"Rock",
     "year":2002
@@ -4130,13 +3906,6 @@
     "year":2006
   },
   {
-    "album":"www.getthecurse.com",
-    "albumArt":"",
-    "artist":"Aphex Twin",
-    "genre":"Other",
-    "year":0
-  },
-  {
     "album":"October Rust",
     "albumArt":"http://lh3.ggpht.com/DnbS8YimcCnTku0gPcJ2DPfT2QP1tcmvm8pPHMq7oq0NtDBwtEU8HuXsuYsgjpPSuJm03_0C5ws",
     "artist":"Type O Negative",
@@ -4166,7 +3935,7 @@
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 3: EMOTION 98.3",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Mr. Mister",
     "genre":"Rock",
     "year":2002
@@ -4180,7 +3949,7 @@
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 3: EMOTION 98.3",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"John Waite",
     "genre":"Rock",
     "year":2002
@@ -4205,13 +3974,6 @@
     "artist":"Zero 7",
     "genre":"Lo-Fi",
     "year":2006
-  },
-  {
-    "album":"Hefty Fine",
-    "albumArt":"http://lh5.ggpht.com/zwJut-WgqIiv6NNAamxQKotl_jJx8PtQvT7sQsAID0W_8lULh-pymXw1fhxXkvVYJwobZqAfUg",
-    "artist":"Bloodhound Gang",
-    "genre":"Punk Rock",
-    "year":2005
   },
   {
     "album":"Rogue's Gallery: Pirate Ballads, Sea Songs, and Chanteys [Disc 2 of 2]",
@@ -4306,7 +4068,7 @@
   },
   {
     "album":"Statement Of Intent",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Dj Format",
     "genre":"Hip-Hop",
     "year":2012
@@ -4341,7 +4103,7 @@
   },
   {
     "album":"Atmosphere",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Kaskade",
     "genre":"Dance",
     "year":2013
@@ -4450,13 +4212,6 @@
     "artist":"The Rolling Stones",
     "genre":"",
     "year":1978
-  },
-  {
-    "album":"Americana",
-    "albumArt":"http://lh3.ggpht.com/F1vJP3cHcqqOedBhhs4w63WNstLZiZHzuthSJUhP1BV1fBOxtXlWKPZjXLda7VZ9Rft-rp_Cnw",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "year":1998
   },
   {
     "album":"Sticky Fingers",
@@ -4599,13 +4354,6 @@
     "year":2012
   },
   {
-    "album":"You Are the Quarry (Parental Advisory)",
-    "albumArt":"http://lh4.ggpht.com/vnx4lOpTVyXjTJkAQSf44fE8mBcRZaNzE0_D7guZaBBNBbXzjl3uy2tXXJ5OqcmViAYklJQuMjI",
-    "artist":"Morrissey",
-    "genre":"Other",
-    "year":2004
-  },
-  {
     "album":"Love This Giant",
     "albumArt":"http://lh5.ggpht.com/zc2UEcz9xJ8XLVcoiPDp_YtwO77dZThsGaIbbAL19Zd87Cs2U0_QKcSMDr4",
     "artist":"David Byrne & St. Vincent",
@@ -4733,14 +4481,14 @@
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 4: FLASH FM",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Electric Light Orchestra",
     "genre":"Pop",
     "year":2002
   },
   {
     "album":"Nothing (Deluxe Edition)",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"N.E.R.D.",
     "genre":"Hip-Hop",
     "year":2010
@@ -4761,7 +4509,7 @@
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 4: FLASH FM",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Go West",
     "genre":"Pop",
     "year":2002
@@ -4779,13 +4527,6 @@
     "artist":"Kid Cudi",
     "genre":"Hip-Hop",
     "year":2010
-  },
-  {
-    "album":"Hefty Fine",
-    "albumArt":"http://lh5.ggpht.com/05uXWXiVD1bGJ3chhYRgfrjluW3upqF4sYoYmvuYQ778rma4E1oK-mfCGkQzNeMdVjXlv-TYZ_g",
-    "artist":"Bloodhound Gang",
-    "genre":"Punk Rock",
-    "year":2005
   },
   {
     "album":"L.A. Woman (Deluxe Edition)",
@@ -4866,7 +4607,7 @@
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 4: FLASH FM",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Talk Talk",
     "genre":"Pop",
     "year":2002
@@ -4880,7 +4621,7 @@
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 4: FLASH FM",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Michael Jackson",
     "genre":"Pop",
     "year":2002
@@ -4894,7 +4635,7 @@
   },
   {
     "album":"Kiss Land (Deluxe Edition)",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"The Weeknd",
     "genre":"PBR&B",
     "year":2013
@@ -4922,17 +4663,10 @@
   },
   {
     "album":"Hesitation Marks",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Nine Inch Nails",
     "genre":"",
     "year":2013
-  },
-  {
-    "album":"Heartattack and Vine",
-    "albumArt":"http://lh4.ggpht.com/WqourOoCbLZuKo-mBPM2VmgxcXac4wPhOVTzVVyMgqtR5B-MqY2BqhRY74G8-Q",
-    "artist":"Tom Waits",
-    "genre":"",
-    "year":1980
   },
   {
     "album":"Heligoland",
@@ -4964,7 +4698,7 @@
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 4: FLASH FM",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"INXS",
     "genre":"Pop",
     "year":2002
@@ -5012,13 +4746,6 @@
     "year":2007
   },
   {
-    "album":"Version",
-    "albumArt":"http://lh4.ggpht.com/LwRcg8hxZzXhMkVbgtkFPlTJ7QtyTjGVcOP1_6OdURh4FAPybc-VK-x01WlNoacCj4p7e4tLUg",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "year":2007
-  },
-  {
     "album":"Eminem   Marshall Mathers LP 2 (Album Deluxe Edition)",
     "albumArt":"http://lh3.ggpht.com/L5qfrOYQu-aAu9OJRG8w0KvVQksAtUmdHkFvg7sP3pdhnWkSJj0ghld2QuSP",
     "artist":"Eminem",
@@ -5062,7 +4789,7 @@
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 3: EMOTION 98.3",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Cutting Crew",
     "genre":"Rock",
     "year":2002
@@ -5076,7 +4803,7 @@
   },
   {
     "album":"Houndog",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Houndog",
     "genre":"Blues",
     "year":1999
@@ -5090,7 +4817,7 @@
   },
   {
     "album":"Like Swimming",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Morphine",
     "genre":"Alternative",
     "year":1997
@@ -5153,7 +4880,7 @@
   },
   {
     "album":"Help!",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Beatles, The",
     "genre":"Pop",
     "year":2002
@@ -5202,7 +4929,7 @@
   },
   {
     "album":"Waiting for the Sun",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"The Doors",
     "genre":"",
     "year":1968
@@ -5321,7 +5048,7 @@
   },
   {
     "album":"Goats Head Soup",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"The Rolling Stones",
     "genre":"Rock",
     "year":1973
@@ -5356,14 +5083,14 @@
   },
   {
     "album":"Undertow",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Tool",
     "genre":"Hard Rock",
     "year":1993
   },
   {
     "album":"The Information",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Beck",
     "genre":"Rock",
     "year":2006
@@ -5398,7 +5125,7 @@
   },
   {
     "album":"Yes",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Morphine",
     "genre":"Alternative",
     "year":0
@@ -5454,7 +5181,7 @@
   },
   {
     "album":"Wisdom For Debris",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Eluvium",
     "genre":"Ambient",
     "year":2014
@@ -5482,7 +5209,7 @@
   },
   {
     "album":"10,000 Days",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Tool",
     "genre":"",
     "year":2006
@@ -5524,14 +5251,14 @@
   },
   {
     "album":"The Suburbs",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Arcade Fire",
     "genre":"Indie Rock",
     "year":2010
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 2: WAVE 103",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"The Psychedelic Furs",
     "genre":"Soundtrack",
     "year":2002
@@ -5551,15 +5278,8 @@
     "year":1992
   },
   {
-    "album":"Hefty Fine",
-    "albumArt":"http://lh3.ggpht.com/eNRbY7PVzarRdo6mTr93Ao9hzCucaTF3NE0fuWt3QIExhyIQe0fhjYsgu2UejnBDN9m6r6Us",
-    "artist":"Bloodhound Gang",
-    "genre":"Other",
-    "year":2005
-  },
-  {
     "album":"Pressure Chief",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Cake",
     "genre":"Alternative",
     "year":2004
@@ -5600,13 +5320,6 @@
     "year":2014
   },
   {
-    "album":"Americana",
-    "albumArt":"",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "year":1998
-  },
-  {
     "album":"Tied To The Tracks",
     "albumArt":"http://lh3.ggpht.com/3v6_nyBtMCsXA3C0wAi_hBIcNMK0j_HZrwDTtd7x5lrFPa97NuMSX_cFGQwxPGVcJvoMeu3Pig",
     "artist":"Treat Her Right",
@@ -5615,7 +5328,7 @@
   },
   {
     "album":"Pi\u00f1ata",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Freddie Gibbs & Madlib",
     "genre":"Hip-Hop",
     "year":2014
@@ -5671,7 +5384,7 @@
   },
   {
     "album":"Prolonging The Magic",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Cake",
     "genre":"Rock",
     "year":1998
@@ -5685,28 +5398,28 @@
   },
   {
     "album":"Tron: Legacy (Cd2)",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Daft Punk",
     "genre":"Soundtrack",
     "year":2010
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 3: EMOTION 98.3",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Luther Vandross",
     "genre":"Rock",
     "year":2002
   },
   {
     "album":"Prolonging The Magic",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Cake",
     "genre":"Grunge",
     "year":1998
   },
   {
     "album":"St. Vincent",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"St. Vincent",
     "genre":"Indie",
     "year":2014
@@ -5762,7 +5475,7 @@
   },
   {
     "album":"Salival",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Tool",
     "genre":"",
     "year":2000
@@ -5776,17 +5489,10 @@
   },
   {
     "album":"Within a Mile of Home",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Flogging Molly",
     "genre":"Folk",
     "year":2004
-  },
-  {
-    "album":"Hefty Fine",
-    "albumArt":"http://lh5.ggpht.com/zwJut-WgqIiv6NNAamxQKotl_jJx8PtQvT7sQsAID0W_8lULh-pymXw1fhxXkvVYJwobZqAfUg",
-    "artist":"Bloodhound Gang",
-    "genre":"Other",
-    "year":2005
   },
   {
     "album":"Treat Her Right",
@@ -5825,7 +5531,7 @@
   },
   {
     "album":"Mule Variations",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Tom Waits",
     "genre":"",
     "year":1999
@@ -5853,21 +5559,21 @@
   },
   {
     "album":"Electriclarryland",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Butthole Surfers",
     "genre":"Rock",
     "year":1996
   },
   {
     "album":"Grand Theft Auto Vice City O.S.T. - Volume 4: FLASH FM",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Bryan Adams",
     "genre":"Pop",
     "year":2002
   },
   {
     "album":"Quadrophenia",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"The Who",
     "genre":"",
     "year":1973
@@ -5888,14 +5594,14 @@
   },
   {
     "album":"Aenima",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Tool",
     "genre":"Rock",
     "year":1996
   },
   {
     "album":"Comfort Eagle",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Cake",
     "genre":"Rock",
     "year":2001
@@ -6021,7 +5727,7 @@
   },
   {
     "album":"Random Access Memories",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Daft Punk",
     "genre":"",
     "year":2013
@@ -6098,14 +5804,14 @@
   },
   {
     "album":"Cotton To Fabric",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Odjbox",
     "genre":"Breaks/Dubstep/Funk/Hip Hop",
     "year":2011
   },
   {
     "album":"The Groove Sessions Vol. 1",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Chinese Man",
     "genre":"Trip-Hop",
     "year":2007
@@ -6119,7 +5825,7 @@
   },
   {
     "album":"Sheezus",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Lily Allen",
     "genre":"Pop",
     "year":2014
@@ -6147,7 +5853,7 @@
   },
   {
     "album":"The Groove Sessions Vol. 2",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Chinese Man",
     "genre":"",
     "year":2009
@@ -6168,21 +5874,21 @@
   },
   {
     "album":"The City Under The City",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"L'Orange & Stik Figa",
     "genre":"Hip-Hop",
     "year":2013
   },
   {
     "album":"Acid and Vicious",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Al'tarba Vs Lord Lhus",
     "genre":"Hip-Hop",
     "year":2013
   },
   {
     "album":"Racing With the Sun",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"Chinese Man",
     "genre":"Electronics",
     "year":0
@@ -6210,7 +5916,7 @@
   },
   {
     "album":"Demo Tape",
-    "albumArt":"",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
     "artist":"John Straum",
     "genre":"",
     "year":2012
@@ -6270,5 +5976,285 @@
     "artist":"",
     "genre":"electronic",
     "year":2013
+  },
+  {
+    "album":"White Women",
+    "albumArt":"http://lh5.ggpht.com/bLitbR9hKUxu_H97G0iKGzBO3oYpeaXGisWOCPWhspjaYVPM5Edq1WL2xUPqFuZxE9ys6gqe",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "year":2014
+  },
+  {
+    "album":"White Women",
+    "albumArt":"http://lh6.ggpht.com/ypHgDU28eWsEoSsQjwo1gTs9R-nKn68LpHvnpPeXbmOBwcUC5sWjDl1C9OpwwyruQZvgLpAx",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "year":2014
+  },
+  {
+    "album":"Bass Drum Of Death",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
+    "artist":"Bass Drum Of Death",
+    "genre":"Misc",
+    "year":2013
+  },
+  {
+    "album":"Hefty Fine",
+    "albumArt":"http://lh5.ggpht.com/05uXWXiVD1bGJ3chhYRgfrjluW3upqF4sYoYmvuYQ778rma4E1oK-mfCGkQzNeMdVjXlv-TYZ_g",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "albumArt":"http://lh5.ggpht.com/zwJut-WgqIiv6NNAamxQKotl_jJx8PtQvT7sQsAID0W_8lULh-pymXw1fhxXkvVYJwobZqAfUg",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "albumArt":"http://lh3.ggpht.com/eNRbY7PVzarRdo6mTr93Ao9hzCucaTF3NE0fuWt3QIExhyIQe0fhjYsgu2UejnBDN9m6r6Us",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "albumArt":"http://lh4.ggpht.com/axSGj6hTyAvRHyGpgDUb8rBGxUhdBCAliwyDsFDR_h31kzXSjW8c2OnPHzAlVKh0Sw4aXnLJ2SSG6r8",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "year":2005
+  },
+  {
+    "album":"Americana",
+    "albumArt":"http://lh5.ggpht.com/zKCeHH8uBVChY4HFeab-ByUtrXY0s2FIuOh_WGTi9B3oJlUVsIbpnZn6G6OBkb7lQ-nQmPDq",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "albumArt":"http://lh3.ggpht.com/3MkrVGah0inpy_-be1JBO_BGfPLsczbk7ieITfkKnVb4oeFZhHLzzf8z16D3EyWvOExOnLzLkg",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "albumArt":"http://lh3.ggpht.com/VLFIpEe1nkiuyJZim2nHsQdDn4VEOlpfmVpINVUr4Y4PQrdRnZSF_pcar8ICOxOo5NigeRMzDFE",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "albumArt":"http://lh3.ggpht.com/8YaVCHJKuKagqoGIMtXE8lyL4Qx2hLp2NoReOX_C8IsnjKvAliKMq_7EtCRHY_O2EyArlVD441w",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "albumArt":"http://lh3.ggpht.com/IVyYlMlntGTABqXIZ8OFpxy4Db4-T2VdXpEg5y8iTIRPo7SQl4TkgcA8httalD0KTdmi8G07IiI",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "albumArt":"http://lh6.ggpht.com/QYoBLTNbe08-lDaRwWmQS-_DszMhpwWy3go9L2XJmY3OP5mMmzoo7b71p_2eSAlWYasNTgb4yms",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "albumArt":"http://lh3.ggpht.com/frnvKprqsFmFJrHUqFoO_cvO2EhUkSdp5jkpfVUbaNtcV_pRIcvnwdlGI87pJMk2JsuA5ISO6Zc",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "albumArt":"http://lh3.ggpht.com/F1vJP3cHcqqOedBhhs4w63WNstLZiZHzuthSJUhP1BV1fBOxtXlWKPZjXLda7VZ9Rft-rp_Cnw",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "albumArt":"http://lh4.ggpht.com/3sgzjy7Qv5YWJNen5oxuqI6PboZffIZP52yrpcn7_q2-OfP_dwREDcMs62CnUSYKuXoAp0B82A",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "albumArt":"http://lh6.ggpht.com/4EK1RDWJxz4lfAZ1pitWA4EQXQTO25b2vAQRyQamRZcfK7QabRuUxEC3qvnHqGdCbSZUfN1WIQ",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "albumArt":"http://lh4.ggpht.com/RGJ7_-LSphtXu3cg1W-rnkWwi1bMh-X04TrRKnY44v6JL9_e6qmWBJuCM3Kv3uFHVtONBVisYKc",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "year":1998
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh4.ggpht.com/UUEvq7w52WBiQToU3lhSFnCfbNwjNhs5wbxRQ84J_z8dsheYQdMDYghtraEnTKZ8jrRendmIAQ",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh6.ggpht.com/Z8LAalodxmBzjaXH0jXd1r3hk0xv7MbCqcBwxHWkrSzeC1eb4NP68KbeIGG81YZCLzntE8FVFVg",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh4.ggpht.com/LwRcg8hxZzXhMkVbgtkFPlTJ7QtyTjGVcOP1_6OdURh4FAPybc-VK-x01WlNoacCj4p7e4tLUg",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh5.ggpht.com/FJzMLuhGqff8BaUmJcsmhSrvb7qshARQs9OaHfH6_l84qE7pZANCJn-uQ64Zz28Pm-qJrM3e",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh5.ggpht.com/MjjkGfawGxy6NWxzG1dgbcJ0SGeYQCfGunrQlMgFBiW2KxIGDkiDeKL0xulQ9SMSM-O8ntPG3w",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh6.ggpht.com/JgXXq0aci1V9-5_ER9bQM02N1eABRoSqlMw1CyiJqbmmN0BkFg8e2Qn8hcPmkpcqA8UBm2PG6Q",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh6.ggpht.com/RcvSl8gz5hwe3VDlpAQnxx11ZXxV9s09m7pudvIqK8whMsar3bg9Hxs--BdGPjyxXgLv_hyTr10",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh6.ggpht.com/3Rqt8S_h5SbdF7VvcOXy-XZONrmZYFlJBItLA2i8-Ld62Ti_BRsfciuQBLOxOC2oVYcS_pat",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh4.ggpht.com/RvnQ6LwyolmydlkbUK2VVzCAsqZJH3uvs3U_93k_Cgp9dgmcMEfzRHk855XvT0QiIuJ_G48ZsQ",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh6.ggpht.com/R66KYLLYOxQAE-yWEvrL3tbHFayHnNe5CN4OZfvjjOwiBfcg2olsJMZIt-7LpvaWBTkzO5ldV-Q",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh3.ggpht.com/UY-0XYCitP91UmIo1mTVZEHbp6eQK94dWf3uXJhF48nV8SWG99LaJ5uM0eP2Pd2IcZMVMiLsglg",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh4.ggpht.com/62ucxIeUYgnURvBkD4_Pi_WPGN7YN3l3qsJ-yku-8UioWKvU7-lv7X8cVh3VqV3LgC1OV6cmGQ",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "albumArt":"http://lh5.ggpht.com/O3qfX4dlQbiDicIrIGzsl_ZoLUBFTLM-88dbFOXmvq2Ap95g71QHjxSw4HSQ2sCH8eaccGJx23I",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "year":2007
+  },
+  {
+    "album":"www.getthecurse.com",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
+    "artist":"Aphex Twin",
+    "genre":"electronic",
+    "year":0
+  },
+  {
+    "album":"Yeah Ghost",
+    "albumArt":"http://lh5.googleusercontent.com/O9w4fk4JQsxjsPSs18yisDOP8aR3TJRPlke1y_HUCsT3BJN_QyrvFtT3hBBvjS70H0pTKg0DvQ",
+    "artist":"Zero 7",
+    "genre":"Downtempo",
+    "year":2009
+  },
+  {
+    "album":"You Are the Quarry",
+    "albumArt":"http://lh4.ggpht.com/vnx4lOpTVyXjTJkAQSf44fE8mBcRZaNzE0_D7guZaBBNBbXzjl3uy2tXXJ5OqcmViAYklJQuMjI",
+    "artist":"Morrissey",
+    "genre":"Other",
+    "year":2004
+  },
+  {
+    "album":"Shotter's Nation",
+    "albumArt":"http://lh6.googleusercontent.com/-9RrMG-YSqZSs3qfqCW8kMpAlFEbHobJ2iwp4g9sOJVoguCKm2HsxN5tY3rHDlH04k57IxEMQkY",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "year":2007
+  },
+  {
+    "album":"Heartattack and Vine",
+    "albumArt":"http://lh3.ggpht.com/nXbHmxqodfLQKOD9Pe1L7t9IxXVP0mlao0f0TqH9VDqL-bYulRElL28624yhtw",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "year":1980
+  },
+  {
+    "album":"Heartattack and Vine",
+    "albumArt":"http://lh4.ggpht.com/WqourOoCbLZuKo-mBPM2VmgxcXac4wPhOVTzVVyMgqtR5B-MqY2BqhRY74G8-Q",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "year":1980
+  },
+  {
+    "album":"Heartattack and Vine",
+    "albumArt":"http://lh6.ggpht.com/YnKvJkfPD2zl0ggUE8Vybq9aOW_ql_thCRfVEQ-TTwIUmWbWya4fmHcLHy3DMZh3_o4Nk2rFsA",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "year":1980
+  },
+  {
+    "album":"A Christmas Album",
+    "albumArt":"https://i.imgur.com/dwMmPDY.png",
+    "artist":"Bright Eyes",
+    "genre":"Folk",
+    "year":2002
   }
 ]

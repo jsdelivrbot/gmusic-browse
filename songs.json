@@ -630,96 +630,6 @@
     "year":2005
   },
   {
-    "album":"Shotter's Nation",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Carry On Up The Morning",
-    "year":2007
-  },
-  {
-    "album":"Shotter's Nation",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Baddie's Boogie",
-    "year":2007
-  },
-  {
-    "album":"Shotter's Nation",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Crumb Begging Bahead",
-    "year":2007
-  },
-  {
-    "album":"Shotter's Nation",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Deft Left Hand",
-    "year":2007
-  },
-  {
-    "album":"Shotter's Nation",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"French Dog Blues",
-    "year":2007
-  },
-  {
-    "album":"Shotter's Nation",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Side Of The Road",
-    "year":2007
-  },
-  {
-    "album":"Shotter's Nation",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Lost Art Of Murder",
-    "year":2007
-  },
-  {
-    "album":"Shotter's Nation",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"There She Goes",
-    "year":2007
-  },
-  {
-    "album":"Shotter's Nation",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"UnBiloTitled",
-    "year":2007
-  },
-  {
-    "album":"Shotter's Nation",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "playCount":1,
-    "rating":"0",
-    "title":"Unstookie Titled",
-    "year":2007
-  },
-  {
     "album":"Abbey Road",
     "artist":"Beatles, The",
     "genre":"Pop",
@@ -5742,24 +5652,6 @@
     "year":2010
   },
   {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Diversion",
-    "year":2007
-  },
-  {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":1,
-    "rating":"0",
-    "title":"God Put A Smile Upon Your Face Ft.. The Daptone Horns",
-    "year":2007
-  },
-  {
     "album":"Talk Is Cheap",
     "artist":"Ludachrist",
     "genre":"Mash Up",
@@ -6570,15 +6462,6 @@
     "year":2002
   },
   {
-    "album":"Shotter's Nation",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Delivery",
-    "year":2007
-  },
-  {
     "album":"Celebration Rock",
     "artist":"Japandroids",
     "genre":"",
@@ -6840,15 +6723,6 @@
     "year":2006
   },
   {
-    "album":"Hefty Fine",
-    "artist":"Bloodhound Gang",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Strictly For The Tardcore",
-    "year":2005
-  },
-  {
     "album":"Sea Change",
     "artist":"Beck",
     "genre":"",
@@ -7005,7 +6879,7 @@
     "album":"Night Visions",
     "artist":"Imagine Dragons",
     "genre":"",
-    "playCount":3,
+    "playCount":4,
     "rating":"0",
     "title":"Demons",
     "year":2012
@@ -7270,24 +7144,6 @@
     "rating":"0",
     "title":"Weed Party",
     "year":2006
-  },
-  {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":1,
-    "rating":"0",
-    "title":"Stop Me Ft. Daniel Merriweather",
-    "year":2007
-  },
-  {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":1,
-    "rating":"0",
-    "title":"Oh My God Ft. Lily Allen",
-    "year":2007
   },
   {
     "album":"If You Can't Join 'Em... Beat 'Em",
@@ -7569,15 +7425,6 @@
     "year":2013
   },
   {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":3,
-    "rating":"0",
-    "title":"Just Ft. Phantom Plane",
-    "year":2007
-  },
-  {
     "album":"Nightmare Ending",
     "artist":"Eluvium",
     "genre":"Ambient",
@@ -7666,24 +7513,6 @@
     "rating":"0",
     "title":"Covered In Writing",
     "year":2013
-  },
-  {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":1,
-    "rating":"0",
-    "title":"The Only One I Know Ft. Robbie Williams",
-    "year":2007
-  },
-  {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":2,
-    "rating":"0",
-    "title":"Amy Ft. Kenna",
-    "year":2007
   },
   {
     "album":"Pump Up The Valuum",
@@ -8058,7 +7887,7 @@
     "album":"Money",
     "artist":"KMFDM",
     "genre":"Industrial",
-    "playCount":3,
+    "playCount":4,
     "rating":"0",
     "title":"We Must Awaken",
     "year":1992
@@ -8575,51 +8404,6 @@
     "rating":"0",
     "title":"$29.00",
     "year":1978
-  },
-  {
-    "album":"Heartattack and Vine",
-    "artist":"Tom Waits",
-    "genre":"",
-    "playCount":0,
-    "rating":"0",
-    "title":"In Shades",
-    "year":1980
-  },
-  {
-    "album":"Heartattack and Vine",
-    "artist":"Tom Waits",
-    "genre":"",
-    "playCount":0,
-    "rating":"0",
-    "title":"Ruby's Arms",
-    "year":1980
-  },
-  {
-    "album":"Heartattack and Vine",
-    "artist":"Tom Waits",
-    "genre":"",
-    "playCount":0,
-    "rating":"0",
-    "title":"Downtown",
-    "year":1980
-  },
-  {
-    "album":"Heartattack and Vine",
-    "artist":"Tom Waits",
-    "genre":"",
-    "playCount":0,
-    "rating":"0",
-    "title":"Saving All My Love for You",
-    "year":1980
-  },
-  {
-    "album":"Heartattack and Vine",
-    "artist":"Tom Waits",
-    "genre":"",
-    "playCount":0,
-    "rating":"0",
-    "title":"Jersey Girl",
-    "year":1980
   },
   {
     "album":"Orphans: Brawlers, Bawlers & Bastards",
@@ -9675,15 +9459,6 @@
     "year":0
   },
   {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":2,
-    "rating":"0",
-    "title":"Apply Some Pressure Ft. Paul Smith",
-    "year":2007
-  },
-  {
     "album":"Hell Below Stars Above",
     "artist":"The Toadies",
     "genre":"Unknown",
@@ -10186,15 +9961,6 @@
     "rating":"0",
     "title":"Didn't Have To Go",
     "year":2013
-  },
-  {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":1,
-    "rating":"0",
-    "title":"L.S.F. Ft. Kasabian [Version Revisited]",
-    "year":2007
   },
   {
     "album":"Swing Lo Magellan",
@@ -10980,15 +10746,6 @@
     "year":0
   },
   {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Pretty Green Ft. Santo Gold",
-    "year":2007
-  },
-  {
     "album":"Orphans: Brawlers, Bawlers & Bastards",
     "artist":"Tom Waits",
     "genre":"",
@@ -11541,7 +11298,7 @@
     "album":"Spreading Rumours",
     "artist":"Grouplove",
     "genre":"",
-    "playCount":10,
+    "playCount":11,
     "rating":"0",
     "title":"Raspberry",
     "year":2013
@@ -12522,7 +12279,7 @@
     "album":"Money",
     "artist":"KMFDM",
     "genre":"Industrial",
-    "playCount":3,
+    "playCount":4,
     "rating":"0",
     "title":"Sex On The Flag (Jezebeelzeb..",
     "year":1992
@@ -13071,7 +12828,7 @@
     "album":"Blunderbuss ",
     "artist":"Jack White",
     "genre":"Folk/Rock",
-    "playCount":0,
+    "playCount":1,
     "rating":"0",
     "title":"Hip (Eponymous) Poor Boy",
     "year":2012
@@ -13138,15 +12895,6 @@
     "rating":"0",
     "title":"Row Bullies Row",
     "year":0
-  },
-  {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Valerie Ft. Amy Winehouse [Version Revisited]",
-    "year":2007
   },
   {
     "album":"Crazy Clown Time",
@@ -14958,15 +14706,6 @@
     "year":1973
   },
   {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":3,
-    "rating":"0",
-    "title":"The Kids Aren't Alright",
-    "year":1998
-  },
-  {
     "album":"Seasons of Your Day",
     "artist":"Mazzy Star",
     "genre":"Alternative",
@@ -15093,15 +14832,6 @@
     "year":2006
   },
   {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":3,
-    "rating":"0",
-    "title":"The End of the Line",
-    "year":1998
-  },
-  {
     "album":"Dig, Lazarus, Dig!!!",
     "artist":"Nick Cave & the Bad Seeds",
     "genre":"Rock",
@@ -15204,7 +14934,7 @@
     "album":"Port Of Morrow",
     "artist":"The Shins",
     "genre":"",
-    "playCount":2,
+    "playCount":3,
     "rating":"0",
     "title":"No Way Down",
     "year":2012
@@ -15271,15 +15001,6 @@
     "rating":"0",
     "title":"Liver",
     "year":1999
-  },
-  {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Inversion",
-    "year":2007
   },
   {
     "album":"Visual Audio Sensory Theater",
@@ -15444,15 +15165,6 @@
     "year":1974
   },
   {
-    "album":"",
-    "artist":"Bright Eyes",
-    "genre":"Folk",
-    "playCount":0,
-    "rating":"0",
-    "title":"Away In A Manger",
-    "year":2002
-  },
-  {
     "album":"The Origin Of The Feces",
     "artist":"Type O Negative",
     "genre":"Doom",
@@ -15469,15 +15181,6 @@
     "rating":"0",
     "title":"In The Kingdom",
     "year":2013
-  },
-  {
-    "album":"Heartattack and Vine",
-    "artist":"Tom Waits",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Saving All My Love for You",
-    "year":1980
   },
   {
     "album":"Christmas Portrait",
@@ -16344,15 +16047,6 @@
     "year":2013
   },
   {
-    "album":"Yeah ghost",
-    "artist":"Zero 7",
-    "genre":"Other",
-    "playCount":3,
-    "rating":"0",
-    "title":"Medicine man",
-    "year":0
-  },
-  {
     "album":"Gossamer",
     "artist":"Passion Pit",
     "genre":"",
@@ -16425,15 +16119,6 @@
     "year":2008
   },
   {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":4,
-    "rating":"0",
-    "title":"Staring at the Sun",
-    "year":1998
-  },
-  {
     "album":"More Is Than Isn't",
     "artist":"RJD2",
     "genre":"Hip-Hop/Rap",
@@ -16446,7 +16131,7 @@
     "album":"Shout 2008 Remaster",
     "artist":"DEVO",
     "genre":"Pop",
-    "playCount":0,
+    "playCount":1,
     "rating":"0",
     "title":"C'mon",
     "year":1984
@@ -16486,15 +16171,6 @@
     "rating":"0",
     "title":"Friends",
     "year":2009
-  },
-  {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":2,
-    "rating":"0",
-    "title":"Feelings",
-    "year":1998
   },
   {
     "album":"Hesitation Marks",
@@ -16632,15 +16308,6 @@
     "year":2008
   },
   {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":2,
-    "rating":"0",
-    "title":"Americana",
-    "year":1998
-  },
-  {
     "album":"Closing Time",
     "artist":"Tom Waits",
     "genre":"",
@@ -16731,15 +16398,6 @@
     "year":2013
   },
   {
-    "album":"Shotter's Nation",
-    "artist":"Babyshambles",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"You Talk",
-    "year":2007
-  },
-  {
     "album":"Interpol",
     "artist":"Interpol",
     "genre":"Alternative",
@@ -16819,15 +16477,6 @@
     "rating":"0",
     "title":"Christmas Song",
     "year":1978
-  },
-  {
-    "album":"",
-    "artist":"Bright Eyes",
-    "genre":"Folk",
-    "playCount":0,
-    "rating":"0",
-    "title":"Have Yourself A Merry Little C",
-    "year":2002
   },
   {
     "album":"Revolutionary Vol.1",
@@ -16945,15 +16594,6 @@
     "rating":"0",
     "title":"Goodbye Violet Race",
     "year":1998
-  },
-  {
-    "album":"Yeah ghost",
-    "artist":"Zero 7",
-    "genre":"Other",
-    "playCount":1,
-    "rating":"0",
-    "title":"Solastalgia",
-    "year":0
   },
   {
     "album":"Tupelo Honey",
@@ -17130,7 +16770,7 @@
     "album":"Oracular Spectacular",
     "artist":"MGMT",
     "genre":"Indie",
-    "playCount":0,
+    "playCount":1,
     "rating":"0",
     "title":"The Youth",
     "year":2007
@@ -17181,15 +16821,6 @@
     "year":2010
   },
   {
-    "album":"",
-    "artist":"Bright Eyes",
-    "genre":"Folk",
-    "playCount":0,
-    "rating":"0",
-    "title":"Silver Bells",
-    "year":2002
-  },
-  {
     "album":"Christmas Portrait",
     "artist":"Carpenters",
     "genre":"Christmas - Vocal",
@@ -17199,15 +16830,6 @@
     "year":1978
   },
   {
-    "album":"Yeah ghost",
-    "artist":"Zero 7",
-    "genre":"Other",
-    "playCount":8,
-    "rating":"0",
-    "title":"Mr.Mcgee",
-    "year":0
-  },
-  {
     "album":"All We Love We Leave Behind",
     "artist":"Converge",
     "genre":"",
@@ -17215,24 +16837,6 @@
     "rating":"0",
     "title":"Shame In The Way",
     "year":2012
-  },
-  {
-    "album":"Yeah Ghost",
-    "artist":"Zero 7",
-    "genre":"Other",
-    "playCount":5,
-    "rating":"0",
-    "title":"Pop art blue",
-    "year":0
-  },
-  {
-    "album":"Yeah ghost",
-    "artist":"Zero 7",
-    "genre":"Other",
-    "playCount":3,
-    "rating":"0",
-    "title":"Count me out",
-    "year":0
   },
   {
     "album":"Supersunnyspeedgraphic",
@@ -17514,15 +17118,6 @@
     "year":2007
   },
   {
-    "album":"Yeah ghost",
-    "artist":"Zero 7",
-    "genre":"Other",
-    "playCount":5,
-    "rating":"0",
-    "title":"Ghost symbol",
-    "year":0
-  },
-  {
     "album":"Trilogy",
     "artist":"The Weeknd",
     "genre":"",
@@ -17530,15 +17125,6 @@
     "rating":"0",
     "title":"Montreal",
     "year":2012
-  },
-  {
-    "album":"",
-    "artist":"Bright Eyes",
-    "genre":"Folk",
-    "playCount":0,
-    "rating":"0",
-    "title":"Silent Night",
-    "year":2002
   },
   {
     "album":"Hesitation Marks",
@@ -17694,15 +17280,6 @@
     "year":2007
   },
   {
-    "album":"",
-    "artist":"Bright Eyes",
-    "genre":"Folk",
-    "playCount":0,
-    "rating":"0",
-    "title":"The Night Before Christmas",
-    "year":2002
-  },
-  {
     "album":"Oracular Spectacular",
     "artist":"MGMT",
     "genre":"Indie",
@@ -17755,15 +17332,6 @@
     "rating":"0",
     "title":"Youthless",
     "year":2008
-  },
-  {
-    "album":"",
-    "artist":"Bright Eyes",
-    "genre":"Folk",
-    "playCount":0,
-    "rating":"0",
-    "title":"God Rest Ye Merry Gentlemen",
-    "year":2002
   },
   {
     "album":"Veedon Fleece",
@@ -17883,15 +17451,6 @@
     "year":1992
   },
   {
-    "album":"Hefty Fine",
-    "artist":"Bloodhound Gang",
-    "genre":"Other",
-    "playCount":3,
-    "rating":"0",
-    "title":"Something Diabolical",
-    "year":2005
-  },
-  {
     "album":"All We Love We Leave Behind",
     "artist":"Converge",
     "genre":"",
@@ -17908,15 +17467,6 @@
     "rating":"0",
     "title":"An Old Fashioned Christmas",
     "year":1978
-  },
-  {
-    "album":"",
-    "artist":"Bright Eyes",
-    "genre":"Folk",
-    "playCount":0,
-    "rating":"0",
-    "title":"Little Drummer Boy",
-    "year":2002
   },
   {
     "album":"I Told You I Was Freaky",
@@ -17937,15 +17487,6 @@
     "year":1973
   },
   {
-    "album":"Heartattack and Vine",
-    "artist":"Tom Waits",
-    "genre":"",
-    "playCount":0,
-    "rating":"0",
-    "title":"'til the Money Runs Out",
-    "year":1980
-  },
-  {
     "album":"Tron Legacy Reconfigured",
     "artist":"Daft Punk",
     "genre":"",
@@ -17962,15 +17503,6 @@
     "rating":"0",
     "title":"Depot, Depot",
     "year":1974
-  },
-  {
-    "album":"",
-    "artist":"Bright Eyes",
-    "genre":"Folk",
-    "playCount":0,
-    "rating":"0",
-    "title":"Oh Little Town of Bethlehem",
-    "year":2002
   },
   {
     "album":"Hesitation Marks",
@@ -18021,7 +17553,7 @@
     "album":"Gossamer",
     "artist":"Passion Pit",
     "genre":"",
-    "playCount":3,
+    "playCount":4,
     "rating":"0",
     "title":"Hideaway",
     "year":2012
@@ -18079,15 +17611,6 @@
     "rating":"0",
     "title":"Red Water (Christmas Mourning)",
     "year":1996
-  },
-  {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":3,
-    "rating":"0",
-    "title":"Have You Ever",
-    "year":1998
   },
   {
     "album":"Gossamer",
@@ -18151,15 +17674,6 @@
     "rating":"0",
     "title":"Rosie",
     "year":1973
-  },
-  {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":2,
-    "rating":"0",
-    "title":"Walla Walla",
-    "year":1998
   },
   {
     "album":"Tron Legacy Reconfigured",
@@ -18396,15 +17910,6 @@
     "year":1967
   },
   {
-    "album":"",
-    "artist":"Bright Eyes",
-    "genre":"Folk",
-    "playCount":0,
-    "rating":"0",
-    "title":"White Christmas",
-    "year":2002
-  },
-  {
     "album":"Small Change",
     "artist":"Tom Waits",
     "genre":"",
@@ -18421,24 +17926,6 @@
     "rating":"0",
     "title":"Bait And Switch",
     "year":2012
-  },
-  {
-    "album":"",
-    "artist":"Bright Eyes",
-    "genre":"Folk",
-    "playCount":0,
-    "rating":"0",
-    "title":"Blue Christmas",
-    "year":2002
-  },
-  {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":2,
-    "rating":"0",
-    "title":"She's Got Issues",
-    "year":1998
   },
   {
     "album":"The Way the WInd Blows",
@@ -18603,15 +18090,6 @@
     "year":2003
   },
   {
-    "album":"",
-    "artist":"Bright Eyes",
-    "genre":"Folk",
-    "playCount":0,
-    "rating":"0",
-    "title":"The First Noel",
-    "year":2002
-  },
-  {
     "album":"New Moon",
     "artist":"Elliott Smith",
     "genre":"",
@@ -18700,15 +18178,6 @@
     "rating":"0",
     "title":"We're Both In Love With A Sexy Lady",
     "year":2009
-  },
-  {
-    "album":"Yeah ghost",
-    "artist":"Zero 7",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"The road",
-    "year":0
   },
   {
     "album":"Chinese Album",
@@ -18880,15 +18349,6 @@
     "rating":"0",
     "title":"Miss Misery (Early Version)",
     "year":2007
-  },
-  {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":2,
-    "rating":"0",
-    "title":"No Brakes",
-    "year":1998
   },
   {
     "album":"Small Change",
@@ -19764,15 +19224,6 @@
     "year":1969
   },
   {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":2,
-    "rating":"0",
-    "title":"Why Don't You Get a Job",
-    "year":1998
-  },
-  {
     "album":"October Rust",
     "artist":"Type O Negative",
     "genre":"Gothic Rock",
@@ -20169,15 +19620,6 @@
     "year":2006
   },
   {
-    "album":"Hefty Fine",
-    "artist":"Bloodhound Gang",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Balls Out",
-    "year":2005
-  },
-  {
     "album":"Eminem   Marshall Mathers LP 2 (Album Deluxe Edition)",
     "artist":"Eminem",
     "genre":"Rap/Hip-Hop",
@@ -20230,15 +19672,6 @@
     "rating":"0",
     "title":"Maybe That Was It",
     "year":2012
-  },
-  {
-    "album":"Hefty Fine",
-    "artist":"Bloodhound Gang",
-    "genre":"Other",
-    "playCount":1,
-    "rating":"0",
-    "title":"No Hard Feelings",
-    "year":2005
   },
   {
     "album":"Django Django",
@@ -20736,15 +20169,6 @@
     "year":1999
   },
   {
-    "album":"Hefty Fine",
-    "artist":"Bloodhound Gang",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Diarrhea Runs In The Family",
-    "year":2005
-  },
-  {
     "album":"Best of 00-10",
     "artist":"Ladytron",
     "genre":"Electronic",
@@ -21231,15 +20655,6 @@
     "year":2011
   },
   {
-    "album":"Hefty Fine",
-    "artist":"Bloodhound Gang",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Farting With A Walkman On",
-    "year":2005
-  },
-  {
     "album":"Green [DISC 2]",
     "artist":"Baroness",
     "genre":"",
@@ -21645,15 +21060,6 @@
     "year":2002
   },
   {
-    "album":"Yeah ghost",
-    "artist":"Zero 7",
-    "genre":"Other",
-    "playCount":7,
-    "rating":"0",
-    "title":"Everything up",
-    "year":0
-  },
-  {
     "album":"Django Django",
     "artist":"Django Django",
     "genre":"",
@@ -21895,15 +21301,6 @@
     "rating":"0",
     "title":"Cape Cod Girls",
     "year":2006
-  },
-  {
-    "album":"www.getthecurse.com",
-    "artist":"Aphex Twin",
-    "genre":"Other",
-    "playCount":5,
-    "rating":"0",
-    "title":"Windowlicker",
-    "year":0
   },
   {
     "album":"October Rust",
@@ -22192,15 +21589,6 @@
     "rating":"0",
     "title":"The Pageant Of The Bizarre",
     "year":2006
-  },
-  {
-    "album":"Hefty Fine",
-    "artist":"Bloodhound Gang",
-    "genre":"Punk Rock",
-    "playCount":3,
-    "rating":"0",
-    "title":"Uhn Tiss Uhn Tiss Uhn Tiss",
-    "year":2005
   },
   {
     "album":"The Garden",
@@ -22899,7 +22287,7 @@
     "album":"Dept. of Disappearance (Deluxe Edition)",
     "artist":"Jason Lytle",
     "genre":"",
-    "playCount":5,
+    "playCount":6,
     "rating":"0",
     "title":"Dept. of Disappearance",
     "year":2012
@@ -23607,15 +22995,6 @@
     "year":2011
   },
   {
-    "album":"Yeah ghost",
-    "artist":"Zero 7",
-    "genre":"Other",
-    "playCount":2,
-    "rating":"0",
-    "title":"Sleeper",
-    "year":0
-  },
-  {
     "album":"Bloody Kisses",
     "artist":"Type O Negative",
     "genre":"Gothic Rock",
@@ -23641,24 +23020,6 @@
     "rating":"0",
     "title":"Marijuana",
     "year":2010
-  },
-  {
-    "album":"Yeah Ghost",
-    "artist":"Zero 7",
-    "genre":"Other",
-    "playCount":6,
-    "rating":"0",
-    "title":"Swing",
-    "year":0
-  },
-  {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":2,
-    "rating":"0",
-    "title":"Pretty Fly (For a White Guy)",
-    "year":1998
   },
   {
     "album":"Nude",
@@ -23979,7 +23340,7 @@
     "album":"We Are Rising",
     "artist":"Son Lux",
     "genre":"Hip-Hop",
-    "playCount":3,
+    "playCount":4,
     "rating":"0",
     "title":"All The Right Things",
     "year":2011
@@ -24930,15 +24291,6 @@
     "year":2012
   },
   {
-    "album":"You Are the Quarry (Parental Advisory)",
-    "artist":"Morrissey",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"The World Is Full Of Crashing Bores",
-    "year":2004
-  },
-  {
     "album":"Love This Giant",
     "artist":"David Byrne & St. Vincent",
     "genre":"",
@@ -25068,7 +24420,7 @@
     "album":"Under the Western Freeway",
     "artist":"Grandaddy",
     "genre":"Rock",
-    "playCount":2,
+    "playCount":3,
     "rating":"0",
     "title":"Why Took Your Advice",
     "year":0
@@ -25077,7 +24429,7 @@
     "album":"Spreading Rumours",
     "artist":"Grouplove",
     "genre":"",
-    "playCount":11,
+    "playCount":12,
     "rating":"5",
     "title":"Borderlines And Aliens",
     "year":2013
@@ -25167,7 +24519,7 @@
     "album":"Love Death Immortality",
     "artist":"The Glitch Mob",
     "genre":"Electronic",
-    "playCount":5,
+    "playCount":6,
     "rating":"0",
     "title":"Skytoucher",
     "year":2014
@@ -25455,7 +24807,7 @@
     "album":"We Are Rising",
     "artist":"Son Lux",
     "genre":"Hip-Hop",
-    "playCount":5,
+    "playCount":6,
     "rating":"5",
     "title":"Flickers",
     "year":2011
@@ -25869,7 +25221,7 @@
     "album":"Beacon",
     "artist":"Two Door Cinema Club",
     "genre":"",
-    "playCount":2,
+    "playCount":3,
     "rating":"0",
     "title":"Handshake",
     "year":2012
@@ -25972,15 +25324,6 @@
     "rating":"0",
     "title":"Angry Itch",
     "year":2003
-  },
-  {
-    "album":"Hefty Fine",
-    "artist":"Bloodhound Gang",
-    "genre":"Punk Rock",
-    "playCount":1,
-    "rating":"0",
-    "title":"Ralph Wiggum",
-    "year":2005
   },
   {
     "album":"Mumford & Sons - Babel",
@@ -26775,15 +26118,6 @@
     "year":2005
   },
   {
-    "album":"Hefty Fine",
-    "artist":"Bloodhound Gang",
-    "genre":"Punk Rock",
-    "playCount":1,
-    "rating":"0",
-    "title":"I'm The Least You Could Do",
-    "year":2005
-  },
-  {
     "album":"Sparkle And Fade",
     "artist":"Everclear",
     "genre":"Rock",
@@ -27052,15 +26386,6 @@
     "rating":"0",
     "title":"You Make Me Feel Like A Whore",
     "year":1995
-  },
-  {
-    "album":"Heartattack and Vine",
-    "artist":"Tom Waits",
-    "genre":"",
-    "playCount":0,
-    "rating":"0",
-    "title":"Hearattack and Vine",
-    "year":1980
   },
   {
     "album":"Down in Albion",
@@ -27516,7 +26841,7 @@
     "album":"Suicidal Tendencies",
     "artist":"Suicidal Tendencies",
     "genre":"Alternative & Punk",
-    "playCount":1,
+    "playCount":2,
     "rating":"0",
     "title":"Institutionalized",
     "year":1983
@@ -27756,15 +27081,6 @@
     "year":2012
   },
   {
-    "album":"Heartattack and Vine",
-    "artist":"Tom Waits",
-    "genre":"",
-    "playCount":0,
-    "rating":"0",
-    "title":"Mr Siegal",
-    "year":1980
-  },
-  {
     "album":"World Coming Down",
     "artist":"Type O Negative",
     "genre":"Doom",
@@ -27772,15 +27088,6 @@
     "rating":"0",
     "title":"Everyone I Love Is Dead",
     "year":1999
-  },
-  {
-    "album":"Version",
-    "artist":"Mark Ronson",
-    "genre":"Other",
-    "playCount":2,
-    "rating":"0",
-    "title":"Outversion",
-    "year":2007
   },
   {
     "album":"One Love: The Very Best of Bob Marley & the Wailers [Remastered]",
@@ -27898,15 +27205,6 @@
     "rating":"0",
     "title":"Bad Guy",
     "year":2013
-  },
-  {
-    "album":"Heartattack and Vine",
-    "artist":"Tom Waits",
-    "genre":"",
-    "playCount":0,
-    "rating":"0",
-    "title":"On the Nickel",
-    "year":1980
   },
   {
     "album":"The Lady Killer",
@@ -28254,7 +27552,7 @@
     "album":"Coexist",
     "artist":"The xx",
     "genre":"",
-    "playCount":4,
+    "playCount":5,
     "rating":"5",
     "title":"Chained",
     "year":2012
@@ -28299,7 +27597,7 @@
     "album":"Familiars",
     "artist":"The Antlers",
     "genre":"Indie",
-    "playCount":2,
+    "playCount":3,
     "rating":"0",
     "title":"Director",
     "year":2014
@@ -28320,15 +27618,6 @@
     "playCount":1,
     "rating":"0",
     "title":"Doppelganger",
-    "year":2014
-  },
-  {
-    "album":"Familiars",
-    "artist":"The Antlers",
-    "genre":"Indie",
-    "playCount":4,
-    "rating":"0",
-    "title":"Intruders",
     "year":2014
   },
   {
@@ -29046,7 +28335,7 @@
     "album":"Warpaint",
     "artist":"Warpaint",
     "genre":"Indie",
-    "playCount":0,
+    "playCount":1,
     "rating":"0",
     "title":"Intro",
     "year":2014
@@ -29379,7 +28668,7 @@
     "album":"Quack",
     "artist":"Duck Sauce",
     "genre":"Dance",
-    "playCount":1,
+    "playCount":2,
     "rating":"5",
     "title":"Barbra Streisand",
     "year":2014
@@ -30204,15 +29493,6 @@
     "year":0
   },
   {
-    "album":"Hefty Fine",
-    "artist":"Bloodhound Gang",
-    "genre":"Other",
-    "playCount":1,
-    "rating":"0",
-    "title":"Pennsylvania",
-    "year":2005
-  },
-  {
     "album":"St. Vincent",
     "artist":"St. Vincent",
     "genre":"Indie",
@@ -30531,7 +29811,7 @@
     "album":"After The Disco",
     "artist":"Broken Bells",
     "genre":"Indie",
-    "playCount":0,
+    "playCount":1,
     "rating":"0",
     "title":"After The Disco",
     "year":2014
@@ -30544,15 +29824,6 @@
     "rating":"5",
     "title":"Stero\u00efds (feat. Uffie)",
     "year":2008
-  },
-  {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":0,
-    "rating":"0",
-    "title":"Welcome",
-    "year":1998
   },
   {
     "album":"Modern Vampires of the City",
@@ -30927,7 +30198,7 @@
     "album":"99 Songs Of Revolution: Volume I",
     "artist":"Streetlight Manifesto",
     "genre":"Ska",
-    "playCount":2,
+    "playCount":3,
     "rating":"0",
     "title":"Birds Flying Away",
     "year":2010
@@ -30958,15 +30229,6 @@
     "rating":"0",
     "title":"super sex",
     "year":0
-  },
-  {
-    "album":"Americana",
-    "artist":"The Offspring",
-    "genre":"Other",
-    "playCount":2,
-    "rating":"0",
-    "title":"Pay the Man",
-    "year":1998
   },
   {
     "album":"Rogue's Gallery: Pirate Ballads, Sea Songs, and Chanteys [Disc 1 of 2]",
@@ -31125,7 +30387,7 @@
     "album":"Modern Vampires of the City",
     "artist":"Vampire Weekend",
     "genre":"",
-    "playCount":6,
+    "playCount":7,
     "rating":"0",
     "title":"Finger Back",
     "year":2013
@@ -31188,7 +30450,7 @@
     "album":"Everything Goes Numb",
     "artist":"Streetlight Manifesto",
     "genre":"Alt. Punk",
-    "playCount":2,
+    "playCount":3,
     "rating":"0",
     "title":"Everything Went Numb",
     "year":2003
@@ -31552,15 +30814,6 @@
     "rating":"0",
     "title":"Buena",
     "year":1993
-  },
-  {
-    "album":"Hefty Fine",
-    "artist":"Bloodhound Gang",
-    "genre":"Other",
-    "playCount":1,
-    "rating":"0",
-    "title":"Foxtrot Uniform Charlie Kilo",
-    "year":2005
   },
   {
     "album":"Some Girls",
@@ -31971,7 +31224,7 @@
     "album":"Inventions",
     "artist":"Inventions",
     "genre":"Post-Rock; Alternative",
-    "playCount":0,
+    "playCount":1,
     "rating":"0",
     "title":"Flood Poems",
     "year":2014
@@ -32106,7 +31359,7 @@
     "album":"Warpaint",
     "artist":"Warpaint",
     "genre":"Indie",
-    "playCount":1,
+    "playCount":2,
     "rating":"0",
     "title":"Keep It Healthy",
     "year":2014
@@ -32430,7 +31683,7 @@
     "album":"So It Goes",
     "artist":"RATKING",
     "genre":"Rap",
-    "playCount":0,
+    "playCount":1,
     "rating":"0",
     "title":"Snow Beach",
     "year":2014
@@ -32736,7 +31989,7 @@
     "album":"What's Good for You",
     "artist":"Treat Her Right",
     "genre":"",
-    "playCount":3,
+    "playCount":4,
     "rating":"5",
     "title":"Tease Me",
     "year":1991
@@ -33033,7 +32286,7 @@
     "album":"Inventions",
     "artist":"Inventions",
     "genre":"Post-Rock; Alternative",
-    "playCount":1,
+    "playCount":2,
     "rating":"0",
     "title":"Echo Tropism",
     "year":2014
@@ -33339,7 +32592,7 @@
     "album":"Inventions",
     "artist":"Inventions",
     "genre":"Post-Rock; Alternative",
-    "playCount":0,
+    "playCount":1,
     "rating":"0",
     "title":"Entity",
     "year":2014
@@ -33699,7 +32952,7 @@
     "album":"After The Disco",
     "artist":"Broken Bells",
     "genre":"Indie",
-    "playCount":1,
+    "playCount":2,
     "rating":"0",
     "title":"Perfect World",
     "year":2014
@@ -33906,7 +33159,7 @@
     "album":"St. Vincent",
     "artist":"St. Vincent",
     "genre":"Indie",
-    "playCount":1,
+    "playCount":2,
     "rating":"0",
     "title":"Digital Witness",
     "year":2014
@@ -34221,7 +33474,7 @@
     "album":"Everything Goes Numb",
     "artist":"Streetlight Manifesto",
     "genre":"Alt. Punk",
-    "playCount":3,
+    "playCount":4,
     "rating":"0",
     "title":"A Better Place, A Better Time",
     "year":2003
@@ -34446,7 +33699,7 @@
     "album":"Cotton To Fabric",
     "artist":"Odjbox",
     "genre":"Breaks/Dubstep/Funk/Hip Hop",
-    "playCount":3,
+    "playCount":5,
     "rating":"0",
     "title":"Intro",
     "year":2011
@@ -34464,7 +33717,7 @@
     "album":"Cotton To Fabric",
     "artist":"Odjbox",
     "genre":"Breaks/Dubstep/Funk/Hip Hop",
-    "playCount":4,
+    "playCount":5,
     "rating":"0",
     "title":"Teresina",
     "year":2011
@@ -34473,7 +33726,7 @@
     "album":"Cotton To Fabric",
     "artist":"Odjbox",
     "genre":"Breaks/Dubstep/Funk/Hip Hop",
-    "playCount":3,
+    "playCount":5,
     "rating":"0",
     "title":"Birmingham",
     "year":2011
@@ -34482,7 +33735,7 @@
     "album":"Cotton To Fabric",
     "artist":"Odjbox",
     "genre":"Breaks/Dubstep/Funk/Hip Hop",
-    "playCount":3,
+    "playCount":4,
     "rating":"0",
     "title":"Xavier Pt. 1",
     "year":2011
@@ -34491,7 +33744,7 @@
     "album":"Cotton To Fabric",
     "artist":"Odjbox",
     "genre":"Breaks/Dubstep/Funk/Hip Hop",
-    "playCount":4,
+    "playCount":5,
     "rating":"0",
     "title":"Xavier Pt. 2",
     "year":2011
@@ -35472,7 +34725,7 @@
     "album":"The Only One",
     "artist":"Odjbox",
     "genre":"",
-    "playCount":1,
+    "playCount":2,
     "rating":"0",
     "title":"Move On Up",
     "year":2012
@@ -35499,7 +34752,7 @@
     "album":"The Only One",
     "artist":"Odjbox",
     "genre":"",
-    "playCount":0,
+    "playCount":1,
     "rating":"0",
     "title":"The Only One",
     "year":2012
@@ -35508,7 +34761,7 @@
     "album":"The City Under The City",
     "artist":"L'Orange & Stik Figa",
     "genre":"Hip-Hop",
-    "playCount":1,
+    "playCount":2,
     "rating":"5",
     "title":"Among Thieves (feat. yU)",
     "year":2013
@@ -35535,7 +34788,7 @@
     "album":"The Cautionary Tales of Mark Oliver Everett",
     "artist":"Eels",
     "genre":"Indie Rock",
-    "playCount":1,
+    "playCount":2,
     "rating":"5",
     "title":"A Swallow in the Sun",
     "year":2014
@@ -35773,5 +35026,959 @@
     "rating":"5",
     "title":"Crystals.ogg",
     "year":2013
+  },
+  {
+    "album":"White Women",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Lost On The Way Home (Featuring Solange)",
+    "year":2014
+  },
+  {
+    "album":"White Women",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "playCount":1,
+    "rating":"0",
+    "title":"Come Alive (Featuring Toro Y Moi)",
+    "year":2014
+  },
+  {
+    "album":"White Women",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Old 45's",
+    "year":2014
+  },
+  {
+    "album":"White Women",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Over Your Shoulder",
+    "year":2014
+  },
+  {
+    "album":"White Women",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Hard To Say No",
+    "year":2014
+  },
+  {
+    "album":"White Women",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "playCount":1,
+    "rating":"0",
+    "title":"Jealous (I Ain't With It)",
+    "year":2014
+  },
+  {
+    "album":"White Women",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Ezra's Interlude (Featuring Ezra Koenig)",
+    "year":2014
+  },
+  {
+    "album":"White Women",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Somethingood",
+    "year":2014
+  },
+  {
+    "album":"White Women",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Play The Fool",
+    "year":2014
+  },
+  {
+    "album":"White Women",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Fall Back 2U",
+    "year":2014
+  },
+  {
+    "album":"White Women",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Frequent Flyer",
+    "year":2014
+  },
+  {
+    "album":"White Women",
+    "artist":"Chromeo",
+    "genre":"Indie Rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Sexy Socialite",
+    "year":2014
+  },
+  {
+    "album":"Bass Drum Of Death",
+    "artist":"Bass Drum Of Death",
+    "genre":"Misc",
+    "playCount":1,
+    "rating":"0",
+    "title":"I Wanna Be Forgotten",
+    "year":2013
+  },
+  {
+    "album":"Bass Drum Of Death",
+    "artist":"Bass Drum Of Death",
+    "genre":"Misc",
+    "playCount":0,
+    "rating":"0",
+    "title":"White Fright",
+    "year":2013
+  },
+  {
+    "album":"Bass Drum Of Death",
+    "artist":"Bass Drum Of Death",
+    "genre":"Misc",
+    "playCount":0,
+    "rating":"0",
+    "title":"Way Out",
+    "year":2013
+  },
+  {
+    "album":"Bass Drum Of Death",
+    "artist":"Bass Drum Of Death",
+    "genre":"Misc",
+    "playCount":0,
+    "rating":"0",
+    "title":"Faces Of The Wind",
+    "year":2013
+  },
+  {
+    "album":"Bass Drum Of Death",
+    "artist":"Bass Drum Of Death",
+    "genre":"Misc",
+    "playCount":1,
+    "rating":"0",
+    "title":"Crawling After You",
+    "year":2013
+  },
+  {
+    "album":"Bass Drum Of Death",
+    "artist":"Bass Drum Of Death",
+    "genre":"Misc",
+    "playCount":0,
+    "rating":"0",
+    "title":"No Demons",
+    "year":2013
+  },
+  {
+    "album":"Bass Drum Of Death",
+    "artist":"Bass Drum Of Death",
+    "genre":"Misc",
+    "playCount":0,
+    "rating":"0",
+    "title":"Such A Bore",
+    "year":2013
+  },
+  {
+    "album":"Bass Drum Of Death",
+    "artist":"Bass Drum Of Death",
+    "genre":"Misc",
+    "playCount":0,
+    "rating":"0",
+    "title":"(You'll Never Be) So Wrong",
+    "year":2013
+  },
+  {
+    "album":"Bass Drum Of Death",
+    "artist":"Bass Drum Of Death",
+    "genre":"Misc",
+    "playCount":1,
+    "rating":"0",
+    "title":"Fine Lies",
+    "year":2013
+  },
+  {
+    "album":"Bass Drum Of Death",
+    "artist":"Bass Drum Of Death",
+    "genre":"Misc",
+    "playCount":0,
+    "rating":"0",
+    "title":"Shattered Me",
+    "year":2013
+  },
+  {
+    "album":"Bass Drum Of Death",
+    "artist":"Bass Drum Of Death",
+    "genre":"Misc",
+    "playCount":0,
+    "rating":"0",
+    "title":"Bad Reputation",
+    "year":2013
+  },
+  {
+    "album":"Familiars",
+    "artist":"The Antlers",
+    "genre":"Indie",
+    "playCount":5,
+    "rating":"5",
+    "title":"Intruders",
+    "year":2014
+  },
+  {
+    "album":"Hefty Fine",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Diarrhea Runs In The Family",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "playCount":3,
+    "rating":"0",
+    "title":"Uhn Tiss Uhn Tiss Uhn Tiss",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Farting With A Walkman On",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "playCount":1,
+    "rating":"0",
+    "title":"No Hard Feelings",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "playCount":1,
+    "rating":"0",
+    "title":"Pennsylvania",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "playCount":1,
+    "rating":"0",
+    "title":"Foxtrot Uniform Charlie Kilo",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Strictly For The Tardcore",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "playCount":1,
+    "rating":"0",
+    "title":"I'm The Least You Could Do",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "playCount":1,
+    "rating":"0",
+    "title":"Ralph Wiggum",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "playCount":3,
+    "rating":"0",
+    "title":"Something Diabolical",
+    "year":2005
+  },
+  {
+    "album":"Hefty Fine",
+    "artist":"Bloodhound Gang",
+    "genre":"pop rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Balls Out",
+    "year":2005
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":2,
+    "rating":"0",
+    "title":"Americana",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":3,
+    "rating":"0",
+    "title":"The End of the Line",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":2,
+    "rating":"0",
+    "title":"No Brakes",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":0,
+    "rating":"0",
+    "title":"Welcome",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":4,
+    "rating":"0",
+    "title":"Staring at the Sun",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":2,
+    "rating":"0",
+    "title":"Walla Walla",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":2,
+    "rating":"0",
+    "title":"Why Don't You Get a Job",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":3,
+    "rating":"0",
+    "title":"Have You Ever",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":2,
+    "rating":"0",
+    "title":"Pretty Fly (For a White Guy)",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":2,
+    "rating":"0",
+    "title":"She's Got Issues",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":2,
+    "rating":"0",
+    "title":"Pay the Man",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":2,
+    "rating":"0",
+    "title":"Feelings",
+    "year":1998
+  },
+  {
+    "album":"Americana",
+    "artist":"The Offspring",
+    "genre":"rock",
+    "playCount":3,
+    "rating":"0",
+    "title":"The Kids Aren't Alright",
+    "year":1998
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":0,
+    "rating":"0",
+    "title":"Diversion",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":1,
+    "rating":"0",
+    "title":"L.S.F. Ft. Kasabian [Version Revisited]",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":2,
+    "rating":"0",
+    "title":"Outversion",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":0,
+    "rating":"0",
+    "title":"Valerie Ft. Amy Winehouse [Version Revisited]",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":1,
+    "rating":"0",
+    "title":"Oh My God Ft. Lily Allen",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":3,
+    "rating":"0",
+    "title":"Just Ft. Phantom Plane",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":0,
+    "rating":"0",
+    "title":"Pretty Green Ft. Santo Gold",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":1,
+    "rating":"0",
+    "title":"God Put A Smile Upon Your Face Ft.. The Daptone Horns",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":2,
+    "rating":"0",
+    "title":"Amy Ft. Kenna",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":1,
+    "rating":"0",
+    "title":"The Only One I Know Ft. Robbie Williams",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":0,
+    "rating":"0",
+    "title":"Inversion",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":1,
+    "rating":"0",
+    "title":"Stop Me Ft. Daniel Merriweather",
+    "year":2007
+  },
+  {
+    "album":"Version",
+    "artist":"Mark Ronson",
+    "genre":"pop",
+    "playCount":2,
+    "rating":"0",
+    "title":"Apply Some Pressure Ft. Paul Smith",
+    "year":2007
+  },
+  {
+    "album":"www.getthecurse.com",
+    "artist":"Aphex Twin",
+    "genre":"electronic",
+    "playCount":5,
+    "rating":"0",
+    "title":"Windowlicker",
+    "year":0
+  },
+  {
+    "album":"Yeah Ghost",
+    "artist":"Zero 7",
+    "genre":"Downtempo",
+    "playCount":5,
+    "rating":"0",
+    "title":"Ghost symbol",
+    "year":2009
+  },
+  {
+    "album":"Yeah Ghost",
+    "artist":"Zero 7",
+    "genre":"Downtempo",
+    "playCount":5,
+    "rating":"0",
+    "title":"Pop art blue",
+    "year":2009
+  },
+  {
+    "album":"Yeah Ghost",
+    "artist":"Zero 7",
+    "genre":"Downtempo",
+    "playCount":2,
+    "rating":"0",
+    "title":"Sleeper",
+    "year":2009
+  },
+  {
+    "album":"Yeah Ghost",
+    "artist":"Zero 7",
+    "genre":"Downtempo",
+    "playCount":8,
+    "rating":"0",
+    "title":"Mr.Mcgee",
+    "year":2009
+  },
+  {
+    "album":"Yeah Ghost",
+    "artist":"Zero 7",
+    "genre":"Downtempo",
+    "playCount":7,
+    "rating":"0",
+    "title":"Everything up",
+    "year":2009
+  },
+  {
+    "album":"Yeah Ghost",
+    "artist":"Zero 7",
+    "genre":"Downtempo",
+    "playCount":1,
+    "rating":"0",
+    "title":"Solastalgia",
+    "year":2009
+  },
+  {
+    "album":"Yeah Ghost",
+    "artist":"Zero 7",
+    "genre":"Downtempo",
+    "playCount":3,
+    "rating":"0",
+    "title":"Count me out",
+    "year":2009
+  },
+  {
+    "album":"Yeah Ghost",
+    "artist":"Zero 7",
+    "genre":"Downtempo",
+    "playCount":0,
+    "rating":"0",
+    "title":"The road",
+    "year":2009
+  },
+  {
+    "album":"Yeah Ghost",
+    "artist":"Zero 7",
+    "genre":"Downtempo",
+    "playCount":6,
+    "rating":"0",
+    "title":"Swing",
+    "year":2009
+  },
+  {
+    "album":"Yeah Ghost",
+    "artist":"Zero 7",
+    "genre":"Downtempo",
+    "playCount":3,
+    "rating":"0",
+    "title":"Medicine man",
+    "year":2009
+  },
+  {
+    "album":"You Are the Quarry",
+    "artist":"Morrissey",
+    "genre":"Other",
+    "playCount":0,
+    "rating":"0",
+    "title":"The World Is Full Of Crashing Bores",
+    "year":2004
+  },
+  {
+    "album":"Shotter's Nation",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "playCount":1,
+    "rating":"0",
+    "title":"Unstookie Titled",
+    "year":2007
+  },
+  {
+    "album":"Shotter's Nation",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "playCount":0,
+    "rating":"0",
+    "title":"UnBiloTitled",
+    "year":2007
+  },
+  {
+    "album":"Shotter's Nation",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "playCount":0,
+    "rating":"0",
+    "title":"Crumb Begging Bahead",
+    "year":2007
+  },
+  {
+    "album":"Shotter's Nation",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "playCount":0,
+    "rating":"0",
+    "title":"Deft Left Hand",
+    "year":2007
+  },
+  {
+    "album":"Shotter's Nation",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "playCount":0,
+    "rating":"0",
+    "title":"There She Goes",
+    "year":2007
+  },
+  {
+    "album":"Shotter's Nation",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "playCount":0,
+    "rating":"0",
+    "title":"You Talk",
+    "year":2007
+  },
+  {
+    "album":"Shotter's Nation",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "playCount":0,
+    "rating":"0",
+    "title":"French Dog Blues",
+    "year":2007
+  },
+  {
+    "album":"Shotter's Nation",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "playCount":0,
+    "rating":"0",
+    "title":"Side Of The Road",
+    "year":2007
+  },
+  {
+    "album":"Shotter's Nation",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "playCount":0,
+    "rating":"0",
+    "title":"Baddie's Boogie",
+    "year":2007
+  },
+  {
+    "album":"Shotter's Nation",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "playCount":0,
+    "rating":"0",
+    "title":"Lost Art Of Murder",
+    "year":2007
+  },
+  {
+    "album":"Shotter's Nation",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "playCount":0,
+    "rating":"0",
+    "title":"Delivery",
+    "year":2007
+  },
+  {
+    "album":"Shotter's Nation",
+    "artist":"Babyshambles",
+    "genre":"'00s Alternative",
+    "playCount":0,
+    "rating":"0",
+    "title":"Carry On Up The Morning",
+    "year":2007
+  },
+  {
+    "album":"Heartattack and Vine",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "playCount":0,
+    "rating":"0",
+    "title":"Saving All My Love for You",
+    "year":1980
+  },
+  {
+    "album":"Heartattack and Vine",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "playCount":0,
+    "rating":"0",
+    "title":"Jersey Girl",
+    "year":1980
+  },
+  {
+    "album":"Heartattack and Vine",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "playCount":0,
+    "rating":"0",
+    "title":"'til the Money Runs Out",
+    "year":1980
+  },
+  {
+    "album":"Heartattack and Vine",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "playCount":0,
+    "rating":"0",
+    "title":"On the Nickel",
+    "year":1980
+  },
+  {
+    "album":"Heartattack and Vine",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "playCount":0,
+    "rating":"0",
+    "title":"Downtown",
+    "year":1980
+  },
+  {
+    "album":"Heartattack and Vine",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "playCount":0,
+    "rating":"0",
+    "title":"Ruby's Arms",
+    "year":1980
+  },
+  {
+    "album":"Heartattack and Vine",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "playCount":0,
+    "rating":"0",
+    "title":"Hearattack and Vine",
+    "year":1980
+  },
+  {
+    "album":"Heartattack and Vine",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "playCount":0,
+    "rating":"0",
+    "title":"Mr Siegal",
+    "year":1980
+  },
+  {
+    "album":"Heartattack and Vine",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "playCount":0,
+    "rating":"0",
+    "title":"In Shades",
+    "year":1980
+  },
+  {
+    "album":"Heartattack and Vine",
+    "artist":"Tom Waits",
+    "genre":"blues",
+    "playCount":0,
+    "rating":"0",
+    "title":"Saving All My Love for You",
+    "year":1980
+  },
+  {
+    "album":"A Christmas Album",
+    "artist":"Bright Eyes",
+    "genre":"Folk",
+    "playCount":0,
+    "rating":"0",
+    "title":"Blue Christmas",
+    "year":2002
+  },
+  {
+    "album":"A Christmas Album",
+    "artist":"Bright Eyes",
+    "genre":"Folk",
+    "playCount":0,
+    "rating":"0",
+    "title":"Silver Bells",
+    "year":2002
+  },
+  {
+    "album":"A Christmas Album",
+    "artist":"Bright Eyes",
+    "genre":"Folk",
+    "playCount":0,
+    "rating":"0",
+    "title":"Oh Little Town of Bethlehem",
+    "year":2002
+  },
+  {
+    "album":"A Christmas Album",
+    "artist":"Bright Eyes",
+    "genre":"Folk",
+    "playCount":0,
+    "rating":"0",
+    "title":"Silent Night",
+    "year":2002
+  },
+  {
+    "album":"A Christmas Album",
+    "artist":"Bright Eyes",
+    "genre":"Folk",
+    "playCount":0,
+    "rating":"0",
+    "title":"White Christmas",
+    "year":2002
+  },
+  {
+    "album":"A Christmas Album",
+    "artist":"Bright Eyes",
+    "genre":"Folk",
+    "playCount":0,
+    "rating":"0",
+    "title":"The First Noel",
+    "year":2002
+  },
+  {
+    "album":"A Christmas Album",
+    "artist":"Bright Eyes",
+    "genre":"Folk",
+    "playCount":0,
+    "rating":"0",
+    "title":"Have Yourself A Merry Little C",
+    "year":2002
+  },
+  {
+    "album":"A Christmas Album",
+    "artist":"Bright Eyes",
+    "genre":"Folk",
+    "playCount":0,
+    "rating":"0",
+    "title":"Little Drummer Boy",
+    "year":2002
+  },
+  {
+    "album":"A Christmas Album",
+    "artist":"Bright Eyes",
+    "genre":"Folk",
+    "playCount":0,
+    "rating":"0",
+    "title":"The Night Before Christmas",
+    "year":2002
+  },
+  {
+    "album":"A Christmas Album",
+    "artist":"Bright Eyes",
+    "genre":"Folk",
+    "playCount":0,
+    "rating":"0",
+    "title":"God Rest Ye Merry Gentlemen",
+    "year":2002
+  },
+  {
+    "album":"A Christmas Album",
+    "artist":"Bright Eyes",
+    "genre":"Folk",
+    "playCount":0,
+    "rating":"0",
+    "title":"Away In A Manger",
+    "year":2002
   }
 ]
