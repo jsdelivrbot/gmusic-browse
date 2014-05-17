@@ -76,7 +76,7 @@ def get_albums(library, keys):
         del(album['albumArtist'])
         
         h = album_hash(album)
-        if h not in album_hashes:
+        if (h not in album_hashes) and album['album']:
             albums.append(album)
             album_hashes.add(h)
     return albums
