@@ -28,6 +28,7 @@ tr:nth-child(2n) {
 }
 thead {
     background-color: #02918F;
+    line-height: 24px;
 }
 .dynatable-active-page {
     background-color: #AEE8CC;
