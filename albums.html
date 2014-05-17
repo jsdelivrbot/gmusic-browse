@@ -6,17 +6,22 @@
     <link rel="stylesheet" href="main.css">
 <body>
 
-<h1>all songs</h1>
+<pre>
+            .__ ___.                         
+     _____  |  |\_ |__  __ __  _____   ______
+     \__  \ |  | | __ \|  |  \/     \ /  ___/
+      / __ \|  |_| \_\ \  |  /  Y Y  \\___ \ 
+     (____  /____/___  /____/|__|_|  /____  >
+          \/         \/            \/     \/ 
+</pre>
+
 <div id="data" style="display: none;"></div>
 <table id="musictable">
     <thead>
-        <th>Artist</th>
         <th>Album</th>
-        <th>Title</th>
+        <th>Artist</th>
         <th>Year</th>
         <th>Genre</th>
-        <th>Play Count</th>
-        <th>Rating</th>
     </thead>
 </table>
 
@@ -24,7 +29,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="https://rawgit.com/alfajango/jquery-dynatable/v0.3.1/jquery.dynatable.js"></script>
 <script>
-    $('#data').load('songs.json', function() {
+    $('#data').load('albums.json', function() {
       var $records = $('#data'),
           myRecords = JSON.parse($records.text());
       

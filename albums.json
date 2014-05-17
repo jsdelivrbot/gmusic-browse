@@ -1596,13 +1596,6 @@
     "year":2005
   },
   {
-    "album":"",
-    "albumArt":"",
-    "artist":"",
-    "genre":"",
-    "year":0
-  },
-  {
     "album":"Atmosphere",
     "albumArt":"http://lh4.ggpht.com/d9ajL7PH1ePXUyF8Ct-BXBqhNo0xWD5iCubaQ9IOso8gKX-oN9xMXmXU23_Ml4sIsThR-KOHhA",
     "artist":"Kaskade",
@@ -2293,13 +2286,6 @@
     "albumArt":"http://lh6.ggpht.com/uLPi_Mt-Fu5q6-00wox5V_MddNa0o7cAYz5V4zp5hFujDEKVbqEWwObW9AO2VpOoaxngppP27A",
     "artist":"Gavin Friday and Shannon McNally",
     "genre":"Alt. Rock",
-    "year":0
-  },
-  {
-    "album":"",
-    "albumArt":"",
-    "artist":"Unknown",
-    "genre":"Unknown",
     "year":0
   },
   {
@@ -3267,13 +3253,6 @@
     "artist":"The Offspring",
     "genre":"Other",
     "year":1998
-  },
-  {
-    "album":"",
-    "albumArt":"",
-    "artist":"Unknown",
-    "genre":"",
-    "year":0
   },
   {
     "album":"Random Access Memories",
