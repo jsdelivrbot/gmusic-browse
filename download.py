@@ -6,6 +6,10 @@ from getpass import getpass
 from operator import itemgetter, xor
 from gmusicapi import Mobileclient
 
+
+# Turn this off to debug
+compress_json = True
+
 conf_filename = (getenv('HOME') or getenv('USERPROFILE')) + '/.gmusic'
 song_keys = ['rating', 'year', 'album', 'title', 'genre', 'playCount', 'artist']
 album_keys = ['year', 'album', 'genre', 'artist', 'albumArt', 'albumArtist']
@@ -80,7 +84,10 @@ def get_albums(library, keys):
 def write_json(filename, data):
     try:
         f = open(filename, 'w')
-        f.write(dumps(data, sort_keys=True, indent=2, separators=(',', ':')))
+        if compress_json:
+            f.write(dumps(data))            
+        else:
+            f.write(dumps(data, sort_keys=True, indent=2, separators=(',', ':')))
         f.close()
     except:
         print "ERROR: Unable to write", filename
