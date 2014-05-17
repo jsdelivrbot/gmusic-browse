@@ -30,7 +30,9 @@ thead {
     background-color: #02918F;
 }
 .dynatable-active-page {
-    background-color: #82A293;
+    background-color: #AEE8CC;
+    color: darkcyan;
+    font-weight: bold;
 }
 .dynatable-record-count {
     margin-top: 15px;

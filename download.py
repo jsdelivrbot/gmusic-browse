@@ -3,7 +3,7 @@
 from os import getenv
 from json import dumps
 from getpass import getpass
-from operator import itemgetter
+from operator import itemgetter, xor
 from gmusicapi import Mobileclient
 
 conf_filename = (getenv('HOME') or getenv('USERPROFILE')) + '/.gmusic'
@@ -55,12 +55,20 @@ def filter_keys(item, keys):
 def filter_keys_list(l, keys):
     return [filter_keys(item, keys) for item in l]
 
+def album_hash(album):
+    hashkeys = ['album', 'artist', 'year']
+    return reduce(xor, [hash(album[k]) for k in hashkeys])
+
 def get_albums(library, keys):
     albums = []
+    album_hashes = set()
+
     for song in library:
         album = filter_keys(song, keys)
-        if album not in albums:
+        h = album_hash(album)
+        if h not in album_hashes:
             albums.append(album)
+            album_hashes.add(h)
     return albums
 
 def write_json(filename, data):
