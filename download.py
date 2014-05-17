@@ -7,8 +7,8 @@ from operator import itemgetter
 from gmusicapi import Mobileclient
 
 conf_filename = (getenv('HOME') or getenv('USERPROFILE')) + '/.gmusic'
-retain_keys = ['rating', 'year', 'album', 'title', 'genre', 'playCount',
-               'artist', 'albumArt']
+song_keys = ['rating', 'year', 'album', 'title', 'genre', 'playCount', 'artist']
+album_keys = ['year', 'album', 'genre', 'artist', 'albumArt']
 
 
 def connect_api():
@@ -47,17 +47,38 @@ def normalize_urls(l):
         
     return l
 
-def filter_keys(l, keys):
-    return [{k: item[k] for k in keys if k in item} for item in l]
+def filter_keys(item, keys):
+    return {k: item[k] for k in keys if k in item}
 
+def filter_keys_list(l, keys):
+    return [filter_keys(item, keys) for item in l]
+
+def get_albums(library, keys):
+    albums = []
+    for song in library:
+        album = filter_keys(song, keys)
+        if album not in albums:
+            albums.append(album)
+    return albums
+
+def write_json(filename, data):
+    try:
+        f = open(filename, 'w')
+        f.write(dumps(data, sort_keys=True, indent=2, separators=(',', ':')))
+        f.close()
+    except:
+        print "ERROR: Unable to write", filename
+    
 
 if __name__ == '__main__':
     api = connect_api()
 
     if api.is_authenticated():
-        library = api.get_all_songs()
-        library = normalize_urls(library)
-        library = filter_keys(library, retain_keys)
+        library = normalize_urls(api.get_all_songs())
+        all_songs = filter_keys_list(library, song_keys)
+        all_albums = get_albums(library, album_keys)
 
-        print dumps(library, sort_keys=True, indent=4, separators=(',', ': '))
+        write_json('songs.json', all_songs)
+        write_json('albums.json', all_albums)
+        
         api.logout()
