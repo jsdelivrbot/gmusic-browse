@@ -8,7 +8,7 @@ from gmusicapi import Mobileclient
 
 conf_filename = (getenv('HOME') or getenv('USERPROFILE')) + '/.gmusic'
 song_keys = ['rating', 'year', 'album', 'title', 'genre', 'playCount', 'artist']
-album_keys = ['year', 'album', 'genre', 'artist', 'albumArt']
+album_keys = ['year', 'album', 'genre', 'artist', 'albumArt', 'albumArtist']
 
 
 def connect_api():
@@ -65,6 +65,12 @@ def get_albums(library, keys):
 
     for song in library:
         album = filter_keys(song, keys)
+
+        # Handle albums with various artists
+        if album['albumArtist']:
+            album['artist'] = album['albumArtist']
+        del(album['albumArtist'])
+        
         h = album_hash(album)
         if h not in album_hashes:
             albums.append(album)
