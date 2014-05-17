@@ -1,5 +1,9 @@
-@import url(http://fonts.googleapis.com/css?family=Cousine);
-
+@font-face {
+  font-family: 'Cousine';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cousine'), url(https://themes.googleusercontent.com/static/fonts/cousine/v7/CJJ-BXzwL4jWItOg5qolAA.woff) format('woff');
+}
 body {
     font-family: arial, sans-serif;
     margin: 8px;
