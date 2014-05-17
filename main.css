@@ -5,7 +5,8 @@
   src: local('Cousine'), url(https://themes.googleusercontent.com/static/fonts/cousine/v7/CJJ-BXzwL4jWItOg5qolAA.woff) format('woff');
 }
 body {
-    font-family: arial, sans-serif;
+    font-family: 'Cousine', monospace;
+    font-size: 14px;
     margin: 8px;
 }
 h1 {
@@ -13,9 +14,8 @@ h1 {
     font-size: 30px;
 }
 pre {
-    font-family: 'Cousine', monospace;
     font-size: 12px;
-    color: darksalmon;
+    color: lightsteelblue;
 }
 table {
     width: 100%;

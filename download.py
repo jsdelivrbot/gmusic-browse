@@ -33,17 +33,19 @@ def connect_api():
 
     return api
 
-def normalize_urls(l):    
+def normalize_urls(l):
+    default_art = 'https://i.imgur.com/dwMmPDY.png'
+
     for i, item in enumerate(l):
         if 'albumArtRef' in item:
             l[i]['albumArt'] = item['albumArtRef'][0]['url']
         else:
-            l[i]['albumArt'] = ''
+            l[i]['albumArt'] = default_art
 
         if 'artistArtRef' in item:
             l[i]['artistArt'] = item['artistArtRef'][0]['url']
         else:
-            l[i]['artistArt'] = ''
+            l[i]['artistArt'] = default_art
         
     return l
 
