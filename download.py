@@ -33,7 +33,7 @@ def connect_api():
 
     return api
 
-def normalize_urls(l):
+def normalize_urls(l):    
     for i, item in enumerate(l):
         if 'albumArtRef' in item:
             l[i]['albumArt'] = item['albumArtRef'][0]['url']
@@ -58,5 +58,6 @@ if __name__ == '__main__':
         library = api.get_all_songs()
         library = normalize_urls(library)
         library = filter_keys(library, retain_keys)
+
         print dumps(library, sort_keys=True, indent=4, separators=(',', ': '))
         api.logout()

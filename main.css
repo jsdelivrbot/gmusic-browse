@@ -1,4 +1,23 @@
 body {
-    background-color: #F5E2DC;
     font-family: arial, sans-serif;
+    margin: 8px;
+}
+h1 {
+    color: #BCDDEC;
+    font-size: 30px;
+}
+table {
+    width: 100%;
+    border-spacing: 0px;
+    margin: auto;
+    background-color: #A2DABF;
+}
+tr:nth-child(2n) {
+    background-color: #DAEBE3;
+}
+thead {
+    background-color: #02918F;
+}
+.dynatable-active-page {
+    background-color: #DAEBE3;
 }
