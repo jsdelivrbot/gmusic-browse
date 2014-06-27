@@ -2,12 +2,10 @@
 <html>
 <head>
     <title>Google Play Music Library Browser</title>
-    <link rel="stylesheet" href="https://rawgit.com/alfajango/jquery-dynatable/v0.3.1/jquery.dynatable.css">
     <link rel="stylesheet" href="main.css">
 <body>
 
 <pre>
-
                                     __  .__                   .__                          .___
 _______   ____   ____  ____   _____/  |_|  | ___.__.   ______ |  | _____  ___.__. ____   __| _/
 \_  __ \_/ __ \_/ ___\/ __ \ /    \   __\  |<   |  |   \____ \|  | \__  \<   |  |/ __ \ / __ |
@@ -16,37 +14,26 @@ _______   ____   ____  ____   _____/  |_|  | ___.__.   ______ |  | _____  ___.__
              \/     \/    \/     \/          \/        |__|             \/\/         \/     \/
 </pre>
 
-<div id="data" style="display: none;"></div>
-<table id="musictable">
-    <thead>
-        <th>Artist</th>
-        <th>Album</th>
-        <th>Title</th>
-        <th>Year</th>
-        <th>Genre</th>
-        <th>Play Count</th>
-        <th>Rating</th>
+<div class="album" id="base">
+    <img>
+    <span class="title"></span>
+    <span class="artist"></span>
+</div>
 
-    </thead>
-</table>
-
+<div id="recentDiv"></div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-<script src="https://rawgit.com/alfajango/jquery-dynatable/v0.3.1/jquery.dynatable.js"></script>
 <script>
-    $('#data').load('recent.json', function() {
-      var $records = $('#data'),
-          myRecords = JSON.parse($records.text());
+    $.getJSON( "recent.json", function(data) {
+      $.each(data, function(i) {
+        //$('#recentDiv').append( "<li>" + data[i] + "</li>" ).attr('id', i);
+        console.log(data[i]);
 
-      $('#musictable').dynatable({
-        inputs: {
-          queryEvent: 'blur change keyup click'
-        },
-        dataset: {
-          records: myRecords,
-          perPageDefault: 50,
-          perPageOptions: [50,100,500,1000,5000]
-        }
+        $("#base").clone().attr('id', i).appendTo( "#recentDiv" );
+        $("#"+i+" .title").html(data[i]['album']);
+        $("#"+i+" .artist").html(data[i]['artist']);
+        $("#"+i+" img").attr('src', data[i]['albumArt']);
       });
+
     });
 </script>

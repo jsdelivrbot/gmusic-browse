@@ -38,3 +38,29 @@ thead {
 .dynatable-record-count {
     margin-top: 15px;
 }
+#base {
+    display: none;
+}
+.album {
+    max-width: 256px;
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.album img {
+    height: 256px;
+    display: block;
+    margin: auto auto 0 auto;
+}
+.album .title {
+    display: block;
+    font-size: 20px;
+    line-height: 17px;
+    color: #00948a;
+    margin: 4px 0;
+}
+.album .artist {
+    display: block;
+    color: #666;
+}
