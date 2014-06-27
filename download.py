@@ -11,8 +11,8 @@ from gmusicapi import Mobileclient
 compress_json = True
 
 conf_filename = (getenv('HOME') or getenv('USERPROFILE')) + '/.gmusic'
-song_keys = ['rating', 'year', 'album', 'title', 'genre', 'playCount', 'artist']
-album_keys = ['year', 'album', 'genre', 'artist', 'albumArt', 'albumArtist']
+song_keys = ['rating', 'year', 'album', 'title', 'genre', 'playCount', 'artist', 'recentTimestamp']
+album_keys = ['year', 'album', 'genre', 'artist', 'albumArt', 'albumArtist', 'recentTimestamp']
 
 
 def connect_api():
@@ -27,11 +27,11 @@ def connect_api():
     except:
         logged_in = False
         attempts = 0
-    
+
         while not logged_in and attempts < 3:
             email = raw_input('Email: ')
             password = getpass()
-    
+
             logged_in = api.login(email, password)
             attempts += 1
 
@@ -50,7 +50,7 @@ def normalize_urls(l):
             l[i]['artistArt'] = item['artistArtRef'][0]['url']
         else:
             l[i]['artistArt'] = default_art
-        
+
     return l
 
 def filter_keys(item, keys):
@@ -74,7 +74,7 @@ def get_albums(library, keys):
         if album['albumArtist']:
             album['artist'] = album['albumArtist']
         del(album['albumArtist'])
-        
+
         h = album_hash(album)
         if (h not in album_hashes) and album['album']:
             albums.append(album)
@@ -85,13 +85,13 @@ def write_json(filename, data):
     try:
         f = open(filename, 'w')
         if compress_json:
-            f.write(dumps(data))            
+            f.write(dumps(data))
         else:
             f.write(dumps(data, sort_keys=True, indent=2, separators=(',', ':')))
         f.close()
     except:
         print "ERROR: Unable to write", filename
-    
+
 
 if __name__ == '__main__':
     api = connect_api()
@@ -103,5 +103,5 @@ if __name__ == '__main__':
 
         write_json('songs.json', all_songs)
         write_json('albums.json', all_albums)
-        
+
         api.logout()
