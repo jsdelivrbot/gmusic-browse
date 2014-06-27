@@ -65,7 +65,7 @@ def album_hash(album):
 
 def get_albums(library, keys):
     albums = []
-    album_hashes = set()
+    album_hashes = {}
 
     for song in library:
         album = filter_keys(song, keys)
@@ -75,13 +75,14 @@ def get_albums(library, keys):
             album['artist'] = album['albumArtist']
         del(album['albumArtist'])
 
-        if 'recentTimestamp' not in album:
-            album['recentTimestamp'] = 0
-
         h = album_hash(album)
-        if (h not in album_hashes) and album['album']:
+        if (h not in album_hashes.keys()) and album['album']:
             albums.append(album)
-            album_hashes.add(h)
+            album_hashes[h] = len(albums) - 1
+        else:
+            i = album_hashes[h]
+            if albums[i]['recentTimestamp'] < album['recentTimestamp']:
+                albums[i]['recentTimestamp'] = album['recentTimestamp']
     return albums
 
 def get_most_recent(songs, key, limit):
