@@ -81,6 +81,10 @@ def get_albums(library, keys):
             album_hashes.add(h)
     return albums
 
+def get_most_recent_played(songs, limit):
+    sorted_songs = sorted(songs, key=itemgetter('recentTimestamp'), reverse=True)
+    return sorted_songs[:limit]
+
 def write_json(filename, data):
     try:
         f = open(filename, 'w')
@@ -100,8 +104,10 @@ if __name__ == '__main__':
         library = normalize_urls(api.get_all_songs())
         all_songs = filter_keys_list(library, song_keys)
         all_albums = get_albums(library, album_keys)
+        recent_songs = get_most_recent_played(all_songs, 10)
 
         write_json('songs.json', all_songs)
         write_json('albums.json', all_albums)
+        write_json('recent.json', recent_songs)
 
         api.logout()

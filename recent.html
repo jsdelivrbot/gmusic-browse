@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Play Music Library Browser</title>
+    <link rel="stylesheet" href="https://rawgit.com/alfajango/jquery-dynatable/v0.3.1/jquery.dynatable.css">
+    <link rel="stylesheet" href="main.css">
+<body>
+
+<pre>
+
+                                    __  .__                   .__                          .___
+_______   ____   ____  ____   _____/  |_|  | ___.__.   ______ |  | _____  ___.__. ____   __| _/
+\_  __ \_/ __ \_/ ___\/ __ \ /    \   __\  |<   |  |   \____ \|  | \__  \<   |  |/ __ \ / __ |
+ |  | \/\  ___/\  \__\  ___/|   |  \  | |  |_\___  |   |  |_> >  |__/ __ \\___  \  ___// /_/ |
+ |__|    \___  >\___  >___  >___|  /__| |____/ ____|   |   __/|____(____  / ____|\___  >____ |
+             \/     \/    \/     \/          \/        |__|             \/\/         \/     \/
+</pre>
+
+<div id="data" style="display: none;"></div>
+<table id="musictable">
+    <thead>
+        <th>Artist</th>
+        <th>Album</th>
+        <th>Title</th>
+        <th>Year</th>
+        <th>Genre</th>
+        <th>Play Count</th>
+        <th>Rating</th>
+    </thead>
+</table>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="https://rawgit.com/alfajango/jquery-dynatable/v0.3.1/jquery.dynatable.js"></script>
+<script>
+    $('#data').load('recent.json', function() {
+      var $records = $('#data'),
+          myRecords = JSON.parse($records.text());
+
+      $('#musictable').dynatable({
+        inputs: {
+          queryEvent: 'blur change keyup click'
+        },
+        dataset: {
+          records: myRecords,
+          perPageDefault: 50,
+          perPageOptions: [50,100,500,1000,5000]
+        }
+      });
+    });
+</script>
