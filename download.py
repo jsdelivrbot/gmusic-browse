@@ -11,8 +11,8 @@ from gmusicapi import Mobileclient
 compress_json = True
 
 conf_filename = (getenv('HOME') or getenv('USERPROFILE')) + '/.gmusic'
-song_keys = ['rating', 'year', 'album', 'title', 'genre', 'playCount', 'artist', 'recentTimestamp']
-album_keys = ['year', 'album', 'genre', 'artist', 'albumArt', 'albumArtist', 'recentTimestamp']
+song_keys = ['rating', 'year', 'album', 'title', 'genre', 'playCount', 'artist', 'recentTimestamp', 'creationTimestamp']
+album_keys = ['year', 'album', 'genre', 'artist', 'albumArt', 'albumArtist', 'recentTimestamp', 'creationTimestamp']
 
 
 def connect_api():
@@ -75,14 +75,17 @@ def get_albums(library, keys):
             album['artist'] = album['albumArtist']
         del(album['albumArtist'])
 
+        if 'recentTimestamp' not in album:
+            album['recentTimestamp'] = 0
+
         h = album_hash(album)
         if (h not in album_hashes) and album['album']:
             albums.append(album)
             album_hashes.add(h)
     return albums
 
-def get_most_recent_played(songs, limit):
-    sorted_songs = sorted(songs, key=itemgetter('recentTimestamp'), reverse=True)
+def get_most_recent(songs, key, limit):
+    sorted_songs = sorted(songs, key=itemgetter(key), reverse=True)
     return sorted_songs[:limit]
 
 def write_json(filename, data):
@@ -104,10 +107,12 @@ if __name__ == '__main__':
         library = normalize_urls(api.get_all_songs())
         all_songs = filter_keys_list(library, song_keys)
         all_albums = get_albums(library, album_keys)
-        recent_songs = get_most_recent_played(all_albums, 15)
+
+        recent_played_albums = get_most_recent(all_albums, 'recentTimestamp', 30)
+        recent_added_albums = get_most_recent(all_albums, 'creationTimestamp', 30)
 
         write_json('songs.json', all_songs)
         write_json('albums.json', all_albums)
-        write_json('recent.json', recent_songs)
+        write_json('recent.json', [recent_played_albums, recent_added_albums])
 
         api.logout()

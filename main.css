@@ -41,6 +41,11 @@ thead {
 #base {
     display: none;
 }
+.horizScroll {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
 .album {
     max-width: 256px;
     text-align: center;
@@ -59,6 +64,7 @@ thead {
     line-height: 17px;
     color: #00948a;
     margin: 4px 0;
+    white-space: normal;
 }
 .album .artist {
     display: block;

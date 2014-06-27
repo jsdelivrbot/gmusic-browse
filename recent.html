@@ -5,6 +5,12 @@
     <link rel="stylesheet" href="main.css">
 <body>
 
+<div class="album" id="base">
+    <img>
+    <span class="title"></span>
+    <span class="artist"></span>
+</div>
+
 <pre>
                                     __  .__                   .__                          .___
 _______   ____   ____  ____   _____/  |_|  | ___.__.   ______ |  | _____  ___.__. ____   __| _/
@@ -13,27 +19,86 @@ _______   ____   ____  ____   _____/  |_|  | ___.__.   ______ |  | _____  ___.__
  |__|    \___  >\___  >___  >___|  /__| |____/ ____|   |   __/|____(____  / ____|\___  >____ |
              \/     \/    \/     \/          \/        |__|             \/\/         \/     \/
 </pre>
+<div id="recentPlayedDiv" class="horizScroll"></div>
 
-<div class="album" id="base">
-    <img>
-    <span class="title"></span>
-    <span class="artist"></span>
-</div>
+<pre>
 
-<div id="recentDiv"></div>
+
+                                    __  .__                        .___  .___         .___
+_______   ____   ____  ____   _____/  |_|  | ___.__.   _____     __| _/__| _/____   __| _/
+\_  __ \_/ __ \_/ ___\/ __ \ /    \   __\  |<   |  |   \__  \   / __ |/ __ |/ __ \ / __ |
+ |  | \/\  ___/\  \__\  ___/|   |  \  | |  |_\___  |    / __ \_/ /_/ / /_/ \  ___// /_/ |
+ |__|    \___  >\___  >___  >___|  /__| |____/ ____|   (____  /\____ \____ |\___  >____ |
+             \/     \/    \/     \/          \/             \/      \/    \/    \/     \/
+</pre>
+<div id="recentAddedDiv" class="horizScroll"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script>
-    $.getJSON( "recent.json", function(data) {
-      $.each(data, function(i) {
-        //$('#recentDiv').append( "<li>" + data[i] + "</li>" ).attr('id', i);
-        console.log(data[i]);
+    function showAlbums(element, data) {
+        $.each(data, function(i) {
+            $('#base').clone().attr('id', i).appendTo(element);
+            $(element+" #"+i+" .title").html(data[i]['album']);
+            $(element+" #"+i+" .artist").html(data[i]['artist']);
+            $(element+" #"+i+" img").attr('src', data[i]['albumArt']);
+        });
+    }
 
-        $("#base").clone().attr('id', i).appendTo( "#recentDiv" );
-        $("#"+i+" .title").html(data[i]['album']);
-        $("#"+i+" .artist").html(data[i]['artist']);
-        $("#"+i+" img").attr('src', data[i]['albumArt']);
-      });
+    $.getJSON( "recent.json", function(data) {
+    showAlbums('#recentPlayedDiv', data[0]);
+    showAlbums('#recentAddedDiv', data[1]);
 
     });
 </script>
