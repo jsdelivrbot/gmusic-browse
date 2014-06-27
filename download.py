@@ -104,7 +104,7 @@ if __name__ == '__main__':
         library = normalize_urls(api.get_all_songs())
         all_songs = filter_keys_list(library, song_keys)
         all_albums = get_albums(library, album_keys)
-        recent_songs = get_most_recent_played(all_songs, 10)
+        recent_songs = get_most_recent_played(all_albums, 16)
 
         write_json('songs.json', all_songs)
         write_json('albums.json', all_albums)
