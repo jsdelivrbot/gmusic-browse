@@ -53,10 +53,24 @@ thead {
     display: inline-block;
     margin-bottom: 20px;
 }
-.album img {
+.albumart {
     height: 256px;
     display: block;
     margin: auto auto 0 auto;
+}
+.links {
+    width: 200px;
+    height: 256px;
+    margin: auto;
+    position: relative;
+    top: -200px;
+    display: none;
+    margin-bottom: -266px;
+}
+.links img {
+    display: block;
+    width: 175px;
+    margin: 10px auto;
 }
 .album .title {
     display: block;
@@ -69,4 +83,7 @@ thead {
 .album .artist {
     display: block;
     color: #666;
+}
+.faded {
+    opacity: 0.2;
 }
