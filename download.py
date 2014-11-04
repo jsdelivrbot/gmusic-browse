@@ -11,8 +11,8 @@ from gmusicapi import Mobileclient
 compress_json = True
 
 conf_filename = (getenv('HOME') or getenv('USERPROFILE')) + '/.gmusic'
-song_keys = ['rating', 'year', 'album', 'title', 'genre', 'playCount', 'artist']
-album_keys = ['year', 'album', 'genre', 'artist', 'albumArt', 'albumArtist']
+song_keys = ['rating', 'year', 'album', 'title', 'genre', 'playCount', 'artist', 'recentTimestamp', 'creationTimestamp']
+album_keys = ['year', 'album', 'genre', 'artist', 'albumArt', 'albumArtist', 'recentTimestamp', 'creationTimestamp']
 
 
 def connect_api():
@@ -27,11 +27,11 @@ def connect_api():
     except:
         logged_in = False
         attempts = 0
-    
+
         while not logged_in and attempts < 3:
             email = raw_input('Email: ')
             password = getpass()
-    
+
             logged_in = api.login(email, password)
             attempts += 1
 
@@ -50,7 +50,7 @@ def normalize_urls(l):
             l[i]['artistArt'] = item['artistArtRef'][0]['url']
         else:
             l[i]['artistArt'] = default_art
-        
+
     return l
 
 def filter_keys(item, keys):
@@ -65,7 +65,7 @@ def album_hash(album):
 
 def get_albums(library, keys):
     albums = []
-    album_hashes = set()
+    album_hashes = {}
 
     for song in library:
         album = filter_keys(song, keys)
@@ -74,24 +74,32 @@ def get_albums(library, keys):
         if album['albumArtist']:
             album['artist'] = album['albumArtist']
         del(album['albumArtist'])
-        
+
         h = album_hash(album)
-        if (h not in album_hashes) and album['album']:
+        if (h not in album_hashes.keys()) and album['album']:
             albums.append(album)
-            album_hashes.add(h)
+            album_hashes[h] = len(albums) - 1
+        else:
+            i = album_hashes[h]
+            if albums[i]['recentTimestamp'] < album['recentTimestamp']:
+                albums[i]['recentTimestamp'] = album['recentTimestamp']
     return albums
+
+def get_most_recent(songs, key, limit):
+    sorted_songs = sorted(songs, key=itemgetter(key), reverse=True)
+    return sorted_songs[:limit]
 
 def write_json(filename, data):
     try:
         f = open(filename, 'w')
         if compress_json:
-            f.write(dumps(data))            
+            f.write(dumps(data))
         else:
             f.write(dumps(data, sort_keys=True, indent=2, separators=(',', ':')))
         f.close()
     except:
         print "ERROR: Unable to write", filename
-    
+
 
 if __name__ == '__main__':
     api = connect_api()
@@ -101,7 +109,11 @@ if __name__ == '__main__':
         all_songs = filter_keys_list(library, song_keys)
         all_albums = get_albums(library, album_keys)
 
+        recent_played_albums = get_most_recent(all_albums, 'recentTimestamp', 30)
+        recent_added_albums = get_most_recent(all_albums, 'creationTimestamp', 30)
+
         write_json('songs.json', all_songs)
         write_json('albums.json', all_albums)
-        
+        write_json('recent.json', [recent_played_albums, recent_added_albums])
+
         api.logout()

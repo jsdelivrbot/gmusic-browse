@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Play Music Library Browser</title>
+    <link rel="stylesheet" href="main.css">
+    <base target="_blank">
+<body>
+
+<div class="album" id="base">
+    <img class="albumart">
+    <div class="links">
+        <a class="googleplay">
+            <img src="//www.gstatic.com/android/market_images/web/play_logo_x2.png">
+        </a>
+        <a class="youtube">
+            <img src="http://i.imgur.com/wtom2lI.png">
+        </a>
+    </div>
+    <span class="title"></span>
+    <span class="artist"></span>
+</div>
+
+<pre>
+                                    __  .__                   .__                          .___
+_______   ____   ____  ____   _____/  |_|  | ___.__.   ______ |  | _____  ___.__. ____   __| _/
+\_  __ \_/ __ \_/ ___\/ __ \ /    \   __\  |<   |  |   \____ \|  | \__  \<   |  |/ __ \ / __ |
+ |  | \/\  ___/\  \__\  ___/|   |  \  | |  |_\___  |   |  |_> >  |__/ __ \\___  \  ___// /_/ |
+ |__|    \___  >\___  >___  >___|  /__| |____/ ____|   |   __/|____(____  / ____|\___  >____ |
+             \/     \/    \/     \/          \/        |__|             \/\/         \/     \/
+</pre>
+<div id="recentPlayedDiv" class="horizScroll"></div>
+
+<pre>
+
+
+                                    __  .__                        .___  .___         .___
+_______   ____   ____  ____   _____/  |_|  | ___.__.   _____     __| _/__| _/____   __| _/
+\_  __ \_/ __ \_/ ___\/ __ \ /    \   __\  |<   |  |   \__  \   / __ |/ __ |/ __ \ / __ |
+ |  | \/\  ___/\  \__\  ___/|   |  \  | |  |_\___  |    / __ \_/ /_/ / /_/ \  ___// /_/ |
+ |__|    \___  >\___  >___  >___|  /__| |____/ ____|   (____  /\____ \____ |\___  >____ |
+             \/     \/    \/     \/          \/             \/      \/    \/    \/     \/
+</pre>
+<div id="recentAddedDiv" class="horizScroll"></div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>
+    function showAlbums(element, data) {
+        $.each(data, function(i) {
+            $('#base').clone().attr('id', i).appendTo(element);
+            $(element+" #"+i+" .title").html(data[i]['album']);
+            $(element+" #"+i+" .artist").html(data[i]['artist']);
+            $(element+" #"+i+" .albumart").attr('src', data[i]['albumArt']);
+
+            googleURL = 'https://play.google.com/music/listen#/sr/' +
+                        encodeURIComponent(data[i]['album']) + ' ' +
+                        encodeURIComponent(data[i]['artist']);
+            youtubeURL = 'https://www.youtube.com/results?search_query=' +
+                        encodeURIComponent(data[i]['album']) + ' ' +
+                        encodeURIComponent(data[i]['artist']) + ' full album';
+            $(element+" #"+i+" .googleplay").attr('href', googleURL);
+            $(element+" #"+i+" .youtube").attr('href', youtubeURL);
+        });
+    }
+
+    $.getJSON( "recent.json", function(data) {
+        showAlbums('#recentPlayedDiv', data[0]);
+        showAlbums('#recentAddedDiv', data[1]);
+
+        $(".album").hover(
+            function() {
+              $('.albumart', this).addClass("faded");
+              $('.links', this).show();
+            },
+            function() {
+              $('.albumart', this).removeClass("faded");
+              $('.links', this).hide();
+            }
+        );
+    });
+</script>

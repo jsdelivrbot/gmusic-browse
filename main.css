@@ -38,3 +38,52 @@ thead {
 .dynatable-record-count {
     margin-top: 15px;
 }
+#base {
+    display: none;
+}
+.horizScroll {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+.album {
+    max-width: 256px;
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.albumart {
+    height: 256px;
+    display: block;
+    margin: auto auto 0 auto;
+}
+.links {
+    width: 200px;
+    height: 256px;
+    margin: auto;
+    position: relative;
+    top: -200px;
+    display: none;
+    margin-bottom: -266px;
+}
+.links img {
+    display: block;
+    width: 175px;
+    margin: 10px auto;
+}
+.album .title {
+    display: block;
+    font-size: 20px;
+    line-height: 17px;
+    color: #00948a;
+    margin: 4px 0;
+    white-space: normal;
+}
+.album .artist {
+    display: block;
+    color: #666;
+}
+.faded {
+    opacity: 0.2;
+}
